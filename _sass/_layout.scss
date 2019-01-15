@@ -1,0 +1,15 @@
+// Layout
+//
+// Styles for managing the structural hierarchy of the site.
+
+.container {
+  max-width: $page-width;
+  min-width: $page-width;
+  padding-left:  1.5rem;
+  padding-right: $right-pad;
+  margin: 0 auto;
+}
+
+footer {
+  margin-bottom: 2rem;
+}

@@ -1,0 +1,27 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Maxwell Shinn's Homepage
+tagline:             
+url:                 http://www.maxshinnpotential.com
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Max Shinn
+  url:               https://www.maxshinnpotential.com
+  email:             admin@maxshinnpotential.com
+
+# Custom vars
+version:             2.0.0
+#github:
+#  repo:              https://github.com/poole/poole
+

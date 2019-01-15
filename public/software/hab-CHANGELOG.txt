@@ -1,0 +1,58 @@
+Version 0.5 changes: (6/24/09)
+	-Real-time translation
+	-Topic support for simultaneous discussions
+	-File uploads/downloads
+	-Compatibility mode for old and/or text-only browsers
+	-All chat history displayed
+	-FlatFile, SQLite, and MySQL support
+	-Notification of new posts
+	-Moderator controls
+	-Typing light for each user
+	-Improved swear words filter
+	-More flexible/stable admin interface
+	-"/me" support
+	-Better formatting of messages
+	-Number of users image/ajax function
+	-Notification of updates
+	-Template update
+	-Repeat bug fixed
+	-Many small bugs fixed
+
+Version 0.4 changes: (7/30/2008)
+	-List of logged in users
+	-More streamlined chat management and display system
+	-Easily translatable
+	-Better user management
+	-New and better managed smileys
+	-Username security
+	-More bandwidth efficient
+	-Auto-link URLs
+	-Better session management
+	-External style sheet
+	-Increased security
+	-Cleaner admin interface
+
+Version 0.3 changes: (9/1/2007)
+	-No more IFrame or refresh!
+	-Clears old chat history automatically
+	-Keeps a log of past chat history
+	-Added bad word filter
+	-Logs usernames, IP, Agent, host name, and time/date of everyone who logs in
+	-Switched to new base (jQuery)
+	-Cookies do not need to be enabled anymore
+	-Optional length limit added to usernames and messages
+	-Added option to require password to enter chat room
+	-Alerts you if Javascript is disabled
+	-Some code cleanup
+	-Various security fixes
+
+Version 0.2 changes: (8/14/2007)
+	-Light to indicate when others are typing
+	-Graphical Configuration
+	-More configuration options
+	-Various security fixes
+
+Version 0.1 features: (7/22/2007)
+	-No database needed
+	-Smileys
+	-Configurable
