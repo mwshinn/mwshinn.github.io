@@ -68,11 +68,7 @@ I am a joint graduate student in the
   [Instant
   MuseScore](http://www.amazon.com/Instant-MuseScore-Maxwell-Shinn/dp/1783559365),
   are available under the Creative Commons BY-SA License.
-  - Note that, if you are considering purchasing this book, I would
-    highly advise against it. I wrote it for MuseScore 1.3, whereas
-    MuseScore 2.0 has been released, making it more or less
-    obsolete. Marc Sabatella wrote a [brilliant book on MuseScore
-      2.0](http://www.amazon.com/Mastering-MuseScore-beautiful-sheet-music/dp/1508621683/).
+  - Also see Marc Sabatella's [brilliant book on MuseScore 2.0](http://www.amazon.com/Mastering-MuseScore-beautiful-sheet-music/dp/1508621683/).
 - A new [Wikipedia article per day](https://scholar.social/@knowway), curated from a weekly category of broad general interest.  [RSS feed](https://scholar.social/users/knowway.rss) [Atom](https://scholar.social/users/knowway.atom)
 - Here is a recent [picture of me]({{ site.baseurl
   }}/public/max-shinn-photo.jpg) courtesy of (and copyright) Pat
@@ -84,8 +80,6 @@ I am a joint graduate student in the
   [read this paper on best practices](https://doi.org/10.1371/journal.pcbi.1005510).
 - [The Free Software Foundation](http://fsf.org) protects the digital
   freedom of software users and developers.
-- The [Ada Initiative](http://adainitiative.org/) is a project to
-  support women in computing.
 - [MuseScore](http://www.musescore.org) is a free software music
   composition program. I also used to build the
   [GNU/Linux nightlies](http://prereleases.musescore.org/linux/nightly/).
