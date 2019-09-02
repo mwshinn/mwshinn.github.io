@@ -99,5 +99,7 @@ I am a joint graduate student in the
 The best way to contact me is via carrier pigeon.
 [Email](mailto:max-aht-maxshinnpotential-daht-com) works too, though.
 
-Alternatively, you can
-[send me an anonymous message](http://sayat.me/maxws).
+<!--Alternatively, you can
+[send me an anonymous message](http://sayat.me/maxws).-->
+
+Alternatively, you can [send me an anonymous message](https://www.surveymonkey.com/r/YY5ZRPJ).
