@@ -44,7 +44,9 @@ I occasionally update my [quasi-scientific blog](http://blog.maxshinnpotential.c
 -->
 
 I am interested in using mathematical, statistical, and computational
-tools to understand the brain.
+tools to understand the brain.  
+
+[List of publications available at Google Scholar.](https://scholar.google.com/citations?user=ytVKRfkAAAAj)
 
 I am a joint graduate student in the
 [Murray lab](http://murraylab.yale.edu/) and
