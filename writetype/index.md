@@ -1,7 +1,7 @@
 ---
 title: WriteType
 layout: default
-breadcrumb: Home
+breadcrumb: writetype
 ---
 
 ![](./images/header.jpg "Header")

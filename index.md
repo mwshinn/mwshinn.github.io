@@ -12,7 +12,7 @@ breadcrumb: Home
     is a runtime verification Python library for scientific software.
 -   [Notes3](https://code.launchpad.net/~mwshinn/+junk/notes3) is a
     scientific note-taking program based on [Pandoc](http://pandoc.org).
--   [WriteType](http://writetype.bernsteinforpresident.com) helps
+-   [WriteType](writetype) helps
     elementary school students experience success in writing
 -   Find the [versatility](https://github.com/mwshinn/versatility) of
     a network.  Code in Python and Matlab/Octave. For more information
@@ -44,7 +44,7 @@ I occasionally update my [quasi-scientific blog](http://blog.maxshinnpotential.c
 -->
 
 I am interested in using mathematical, statistical, and computational
-tools to understand the brain.  
+tools to understand the brain.
 
 [List of publications available at Google Scholar.](https://scholar.google.com/citations?user=ytVKRfkAAAAj)
 

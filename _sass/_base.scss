@@ -72,3 +72,15 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+
+.noalignimg {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: 0pt none;
+    width: 22px;
+    height: 22px;
+    float: none;
+    display:inline;
+}
