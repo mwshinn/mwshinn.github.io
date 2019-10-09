@@ -48,9 +48,10 @@ tools to understand the brain.
 
 [List of publications available at Google Scholar.](https://scholar.google.com/citations?user=ytVKRfkAAAAj)
 
-I am a joint graduate student in the
-[Murray lab](http://murraylab.yale.edu/) and
-[Lee lab](http://leelab.yale.edu/). Previous affiliations:
+I am a PhD student in the
+[Murray lab](http://murraylab.yale.edu/).
+Previous affiliations:
+[Lee](http://neuroscience.jhu.edu/research/faculty/146), 
 [Bullmore](http://www.neuroscience.cam.ac.uk/directory/profile.php?etb23),
 [Lehman](http://cbs.umn.edu/lehman-lab/home),
 [Nykamp](http://www.math.umn.edu/~nykamp/research.html),
