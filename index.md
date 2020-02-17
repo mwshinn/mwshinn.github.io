@@ -69,9 +69,9 @@ Previous affiliations:
 - The [figures from my
   book]({{ site.baseurl }}/public/music/instant-musescore-figures.zip),
   [Instant
-  MuseScore](http://www.amazon.com/Instant-MuseScore-Maxwell-Shinn/dp/1783559365),
+  MuseScore](https://bookshop.org/books/instant-musescore/9781783559367),
   are available under the Creative Commons BY-SA License.
-  - Also see Marc Sabatella's [brilliant book on MuseScore 2.0](http://www.amazon.com/Mastering-MuseScore-beautiful-sheet-music/dp/1508621683/).
+  - Also see Marc Sabatella's [brilliant book on MuseScore 2.0](https://bookshop.org/books/mastering-musescore-make-beautiful-sheet-music-with-musescore-2-1/9781508621683).
 - A new [Wikipedia article per day](https://scholar.social/@knowway), curated from a weekly category of broad general interest.  [RSS feed](https://scholar.social/users/knowway.rss) [Atom](https://scholar.social/users/knowway.atom)
 - Here is a recent [picture of me]({{ site.baseurl
   }}/public/max-shinn-photo.jpg) courtesy of (and copyright) Pat
