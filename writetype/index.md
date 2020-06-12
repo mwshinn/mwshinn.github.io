@@ -4,7 +4,7 @@ layout: default
 breadcrumb: writetype
 ---
 
-![](./images/header.jpg "Header")
+![](./images/header.jpg "Header"){: .fullwidthimg}
 
 ## What is WriteType?
 
@@ -237,11 +237,11 @@ and features.
 
 ## Screenshots
 
-![](./images/beanstock.png "Header")
+![](./images/beanstock.png "Header"){: .fullwidthimg}
 
-![](./images/jonathan.png "Header")
+![](./images/jonathan.png "Header"){: .fullwidthimg}
 
-![](./images/settings.png "Header")
+![](./images/settings.png "Header"){: .fullwidthimg}
 
 ## Contributors
 
@@ -259,8 +259,6 @@ Thank you to everyone who contributes to WriteType!
 - Debian Packages: Miriam Ruiz
 
 ## How can I help?
-
-
 
 There are many ways that anybody can contribute to WriteType
 

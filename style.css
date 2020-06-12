@@ -68,3 +68,7 @@ h1 a {
 nav {
     margin-bottom: 20px;
 }
+
+img.fullwidthimg {
+    width: 700px;
+}
