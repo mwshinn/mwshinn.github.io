@@ -4,8 +4,8 @@ permalink:           pretty
 # Setup
 title:               Maxwell Shinn's Homepage
 tagline:             
-url:                 https://www.maxshinnpotential.com
-baseurl:             https://www.maxshinnpotential.com
+url:                 http://www.maxshinnpotential.com
+baseurl:             ""
 
 
 # About/contact
