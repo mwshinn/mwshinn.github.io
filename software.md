@@ -17,6 +17,8 @@ them down.  They are all unsupported... proceed with caution!
 - [Geneflow](https://code.launchpad.net/~mwshinn/+junk/geneflow) - An
   abandoned research project to study gene fixation in populations
   with more than two sexes.  Written in C++.
+- [Notes3](https://code.launchpad.net/~mwshinn/+junk/notes3) is a
+  scientific note-taking program based on [Pandoc](http://pandoc.org).
 - [Notes (Notes1)](https://code.launchpad.net/~mwshinn/+junk/notes) -
   The first version of Notes3, written in Perl using Regexp::Grammars.
 - [Scheduler](https://code.launchpad.net/~mwshinn/+junk/scheduler) -

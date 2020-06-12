@@ -10,8 +10,6 @@ breadcrumb: Home
     simulator for the Drift Diffusion Model (DDM) in cognitive neuroscience.
 -   [Paranoid Scientist](https://github.com/mwshinn/paranoidscientist)
     is a runtime verification Python library for scientific software.
--   [Notes3](https://code.launchpad.net/~mwshinn/+junk/notes3) is a
-    scientific note-taking program based on [Pandoc](http://pandoc.org).
 -   [WriteType](writetype) helps
     elementary school students experience success in writing
 -   Find the [versatility](https://github.com/mwshinn/versatility) of
@@ -30,34 +28,26 @@ occasionally use [Github](https://github.com/mwshinn).  All software
 listed here is available under the GNU GPLv3 unless otherwise
 specified.
 
-## Blog
-
-I occasionally update my [quasi-scientific blog](http://blog.maxshinnpotential.com).
-
 ## Research interests
-
-<!--
-> *“What are the important problems of your field? ... If you do not
-> work on an important problem, it's unlikely you'll do important
-> work.”*  
->             –Richard Hamming
--->
 
 I am interested in using mathematical, statistical, and computational
 tools to understand the brain.
 
 [List of publications available at Google Scholar.](https://scholar.google.com/citations?user=ytVKRfkAAAAj)
 
-I am a PhD student in the
-[Murray lab](http://murraylab.yale.edu/).
+I am a PhD student at Yale in the
+[Murray lab](http://murraylab.yale.edu/) and [Lee lab](http://neuroscience.jhu.edu/research/faculty/146).
 Previous affiliations:
-[Lee](http://neuroscience.jhu.edu/research/faculty/146), 
 [Bullmore](http://www.neuroscience.cam.ac.uk/directory/profile.php?etb23),
 [Lehman](http://cbs.umn.edu/lehman-lab/home),
 [Nykamp](http://www.math.umn.edu/~nykamp/research.html),
 [Netoff](http://neuralnetoff.umn.edu/),
 [Hamker](http://www.tu-chemnitz.de/informatik/KI/index.php.en), and
 [Zelazo](http://www.cehd.umn.edu/icd/research/zelazolab/).
+
+## Blog
+
+I occasionally update my [quasi-scientific blog](http://blog.maxshinnpotential.com).
 
 ## Other things that belong online
 
@@ -76,18 +66,8 @@ Previous affiliations:
 - Here is a recent [picture of me]({{ site.baseurl
   }}/public/max-shinn-photo.jpg) courtesy of (and copyright) Pat
   O'Leary.
-
-## Miscellaneous links
-
 - Anyone who does scientific programming should 
   [read this paper on best practices](https://doi.org/10.1371/journal.pcbi.1005510).
-- [The Free Software Foundation](http://fsf.org) protects the digital
-  freedom of software users and developers.
-- [MuseScore](http://www.musescore.org) is a free software music
-  composition program. I also used to build the
-  [GNU/Linux nightlies](http://prereleases.musescore.org/linux/nightly/).
-- [DuckDuckGo](http://duckduckgo.com) is a nice search engine that
-  respects your privacy.
 - Here are some
   [good (and not so good) books](https://www.goodreads.com/review/list/26573313-max-shinn?shelf=read&sort=date_read).
 
