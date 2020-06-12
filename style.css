@@ -1,0 +1,67 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 760px;
+  background-color: #f5efe7;
+}
+
+div.container {
+  margin: 2em 2em 0 2em;
+}
+
+
+a, a:visited, a:active, a:hover {
+  color: #33c;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 a, h1 a:visited, h1 a:active, h1 a:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: Helvetica, Arial, sans;
+	font-size: 38px;
+	line-height: 30px;
+	letter-spacing: -1px;
+	color: #444;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+    font-weight: 100;
+}
+
+h2 {
+	font-family: Helvetica, Arial, sans;
+	font-size: 26px;
+	line-height: 40px;
+	letter-spacing: -1px;color: #444;
+    margin-bottom: -10px;
+}
+
+h3 {
+	font-family: Helvetica, Arial, sans;
+	font-size: 20px;
+	line-height: 40px;
+	letter-spacing: -1px;color: #444;
+    margin-bottom: -10px;
+}
+
+p, ul, nav, footer {
+    font-family: Helvetica, Arial, sans;
+	font-size: 14px;
+	line-height: 20px;
+	color: #222;
+}
+
+h1 a {
+    color: #222;
+}
+
+nav {
+    margin-bottom: 20px;
+}
