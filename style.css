@@ -54,7 +54,7 @@ h3 {
     margin-bottom: -10px;
 }
 
-p, ul, nav, footer {
+p, ul, nav, footer, td, th {
     font-family: Helvetica, Arial, sans;
 	font-size: 14px;
 	line-height: 20px;
