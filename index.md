@@ -68,6 +68,8 @@ I occasionally update my [quasi-scientific blog](http://blog.maxshinnpotential.c
   O'Leary.
 - Anyone who does scientific programming should 
   [read this paper on best practices](https://doi.org/10.1371/journal.pcbi.1005510).
+- A quick tool for 
+  [converting timezones]({{ site.baseurl }}/tz.html).
 - Here are some
   [good (and not so good) books](https://www.goodreads.com/review/list/26573313-max-shinn?shelf=read&sort=date_read).
 
