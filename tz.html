@@ -55,10 +55,7 @@
       for (tz of timezones) {
           var opt = document.createElement("option");
           opt.value = tz;
-          // Make text pretty
-          tztext = tz;
-          tztext = tztext.replace(/(America|Asia|Africa)\//, "")
-          opt.textContent = tztext;
+          opt.textContent = tz;
           select.appendChild(opt);
       }
       select.selectedIndex = timezones.indexOf(curr_tz);
