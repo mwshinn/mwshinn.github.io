@@ -29,10 +29,6 @@ if you're interested.
   ([mscz]({{ site.baseurl }}/public/music/tbsonata-mscz.zip))
 - Chicago - For Chamber Orchestra ([pdf]({{ site.baseurl }}/public/music/chicago.pdf))
   ([mscz]({{ site.baseurl }}/public/music/chicago.mscz))
-- Sonnet - For Solo Piano ([pdf]({{ site.baseurl }}/public/music/sonnet.pdf))
-  ([mscz]({{ site.baseurl }}/public/music/sonnet.mscz))
-- Poor Boy ([pdf]({{ site.baseurl }}/public/music/poor-boy.pdf)) ([mscz]({{ site.baseurl }}/public/music/poor-boy.mscz))
-- Kaichao, Kaisei ([pdf]({{ site.baseurl }}/public/music/kaichao_kaisei.pdf))
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA</a>.
