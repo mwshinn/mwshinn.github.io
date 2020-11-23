@@ -8,12 +8,17 @@ The following abandoned software may or may not work for you, but they
 served some purpose at some point in time which is why I haven't taken
 them down.  They are all unsupported... proceed with caution!
 
-- [Timezone converter](https://code.launchpad.net/~mwshinn/+junk/timezones) -
-  A PHP script which allows you to provide a URL to a specific point
-  in time.  It is useful for coordinating across several timezones.
-  So for instance, input "3:00 PM in Chicago", and then this time will
-  be displayed for timezones across the world.  This works for time
-  intervals as well, e.g. "3:00-5:00 in Chicago".
+- [Timezone converter](https://code.launchpad.net/~mwshinn/+junk/timezones) - A
+  PHP script which allows you to provide a URL to a specific point in time.  It
+  is useful for coordinating across several timezones.  So for instance, input
+  "3:00 PM in Chicago", and then this time will be displayed for timezones
+  across the world.  This works for time intervals as well, e.g. "3:00-5:00 in
+  Chicago".  This was replaced by [worldti.me](https://worldti.me).
+- [ForceAtlas2-python](https://launchpad.net/forceatlas2-python) is a
+  port of Gephi's [ForceAtlas2 graph layout
+  algorithm](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679)
+  to Python (and [NetworkX](https://networkx.github.io/)). Install
+  with "pip install ForceAtlas2".
 - [Geneflow](https://code.launchpad.net/~mwshinn/+junk/geneflow) - An
   abandoned research project to study gene fixation in populations
   with more than two sexes.  Written in C++.

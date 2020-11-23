@@ -8,27 +8,21 @@ breadcrumb: Home
 
 -   [PyDDM](https://github.com/mwshinn/PyDDM) is a
     simulator for the Drift Diffusion Model (DDM) in cognitive neuroscience.
+-   [CanD](https://github.com/CanD) is a Python library for designing complex
+    matplotlib layouts
 -   [Paranoid Scientist](https://github.com/mwshinn/paranoidscientist)
     is a runtime verification Python library for scientific software.
--   [WriteType](writetype) helps
-    elementary school students experience success in writing
 -   [worldti.me](https://worldti.me) provides permanent links to the
     the local time, useful for coordinating times across timezones
--   Find the [versatility](https://github.com/mwshinn/versatility) of
-    a network.  Code in Python and Matlab/Octave. For more information
-    see
-    [the original paper](https://www.nature.com/articles/s41598-017-03394-5).
--   [ForceAtlas2-python](https://launchpad.net/forceatlas2-python) is a
-    port of Gephi's [ForceAtlas2 graph layout
-    algorithm](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679)
-    to Python (and [NetworkX](https://networkx.github.io/)). Install
-    with "pip install ForceAtlas2".
+-   Find the [versatility](https://github.com/mwshinn/versatility) of a network.
+    For more information see [the original
+    paper](https://www.nature.com/articles/s41598-017-03394-5).
 -   There are also several [abandoned projects]({{ site.baseurl }}/software).
+-   [WriteType](writetype) helps
+    elementary school students experience success in writing
 
-I primarily use [Launchpad](https://code.launchpad.net/~mwshinn/) but
-occasionally use [Github](https://github.com/mwshinn).  All software
-listed here is available under the GNU GPLv3 unless otherwise
-specified.
+Also see my [Github](https://github.com/mwshinn).  All software listed here is
+available under the GNU GPLv3 unless otherwise specified.
 
 ## Research interests
 
@@ -43,9 +37,7 @@ Previous affiliations:
 [Bullmore](http://www.neuroscience.cam.ac.uk/directory/profile.php?etb23),
 [Lehman](http://cbs.umn.edu/lehman-lab/home),
 [Nykamp](http://www.math.umn.edu/~nykamp/research.html),
-[Netoff](http://neuralnetoff.umn.edu/),
-[Hamker](http://www.tu-chemnitz.de/informatik/KI/index.php.en), and
-[Zelazo](http://www.cehd.umn.edu/icd/research/zelazolab/).
+[Netoff](http://neuralnetoff.umn.edu/).
 
 ## Blog
 
