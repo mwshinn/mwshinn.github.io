@@ -8,7 +8,7 @@ breadcrumb: Home
 
 -   [PyDDM](https://github.com/mwshinn/PyDDM) is a
     simulator for the Drift Diffusion Model (DDM) in cognitive neuroscience.
--   [CanD](https://github.com/CanD) is a Python library for designing complex
+-   [CanD](https://github.com/mwshinn/CanD) is a Python library for designing complex
     matplotlib layouts
 -   [Paranoid Scientist](https://github.com/mwshinn/paranoidscientist)
     is a runtime verification Python library for scientific software.
@@ -17,9 +17,9 @@ breadcrumb: Home
 -   Find the [versatility](https://github.com/mwshinn/versatility) of a network.
     For more information see [the original
     paper](https://www.nature.com/articles/s41598-017-03394-5).
--   There are also several [abandoned projects]({{ site.baseurl }}/software).
 -   [WriteType](writetype) helps
     elementary school students experience success in writing
+-   There are also several [abandoned projects]({{ site.baseurl }}/software).
 
 Also see my [Github](https://github.com/mwshinn).  All software listed here is
 available under the GNU GPLv3 unless otherwise specified.
