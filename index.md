@@ -4,12 +4,29 @@ layout: default
 breadcrumb: Home
 ---
 
+## Research
+
+I am interested in using mathematical, statistical, and computational tools to
+understand the brain.  I work on spatial and temporal autocorrelation, changing
+evidence during decision-making, generalized drift diffusion models,
+connectomics, and software verification
+
+I am currently a postdoc with [Kenneth Harris and Matteo
+Carandini](https://www.ucl.ac.uk/cortexlab/) at UCL.  I did my PhD with [John
+Murray](https://johndmurray.org/) and [Daeyeol
+Lee](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, and my master's
+with [Ed
+Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23) at
+Cambridge.
+
+[List of publications on Google Scholar.](https://scholar.google.com/citations?user=ytVKRfkAAAAj)
+
 ## Software
 
 -   [PyDDM](https://github.com/mwshinn/PyDDM) is a
     simulator for the Drift Diffusion Model (DDM) in cognitive neuroscience.
 -   [CanD](https://github.com/mwshinn/CanD) is a Python library for designing complex
-    matplotlib layouts
+    matplotlib layouts and multipanel figures
 -   [Paranoid Scientist](https://github.com/mwshinn/paranoidscientist)
     is a runtime verification Python library for scientific software.
 -   [worldti.me](https://worldti.me) provides permanent links to the
@@ -24,28 +41,11 @@ breadcrumb: Home
 Also see my [Github](https://github.com/mwshinn).  All software listed here is
 available under the GNU GPLv3 unless otherwise specified.
 
-## Research interests
 
-I am interested in using mathematical, statistical, and computational
-tools to understand the brain.
-
-[List of publications available at Google Scholar.](https://scholar.google.com/citations?user=ytVKRfkAAAAj)
-
-I am a PhD student at Yale in the
-[Murray lab](http://murraylab.yale.edu/) and [Lee lab](http://neuroscience.jhu.edu/research/faculty/146).
-Previous affiliations:
-[Bullmore](http://www.neuroscience.cam.ac.uk/directory/profile.php?etb23),
-[Lehman](http://cbs.umn.edu/lehman-lab/home),
-[Nykamp](http://www.math.umn.edu/~nykamp/research.html),
-[Netoff](http://neuralnetoff.umn.edu/).
-
-## Blog
-
-I occasionally update my [quasi-scientific blog](http://blog.maxshinnpotential.com).
-
-## Other things that belong online
+## Other
 
 - Sometimes I [compose music]({{ site.baseurl }}/music).
+- I occasionally update my [quasi-scientific blog](http://blog.maxshinnpotential.com).
 - Here is a [music box soundfont]({{ site.baseurl }}/public/shinn_music_box.sf2) which I am releasing as public domain.
 - Various [executive function tasks and experiments]({{ site.baseurl
   }}/ef-tasks) from the
@@ -71,8 +71,18 @@ I occasionally update my [quasi-scientific blog](http://blog.maxshinnpotential.c
 
 ## Contact
 
-The best way to contact me is via carrier pigeon.
-[Email](mailto:max-aht-maxshinnpotential-daht-com) works too, though.
+[Email](mailto:max-aht-maxshinnpotential-daht-com)
+
+I extend an open invite to email me.  I love receiving
+questions/comments/criticisms about my work, and talking to people who use my
+software.  I am also open to hearing about new ideas or projects you are working
+on, or anything else you would like to ask or tell me about.  If you like, you
+may put "Open Invite" in the subject line.  We can meet in person if you are in
+the London area.  (Idea blatently stolen from [Hillel
+Wayne](https://hillelwayne.com/open-invite/) and [Simon
+Willison](https://simonwillison.net/2021/Feb/19/office-hours/).)
+
+
 
 <!--Alternatively, you can
 [send me an anonymous message](http://sayat.me/maxws).-->
