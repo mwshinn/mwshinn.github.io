@@ -41,10 +41,26 @@ Cambridge.
 Also see my [Github](https://github.com/mwshinn).  All software listed here is
 available under the GNU GPLv3 unless otherwise specified.
 
+## Music
+
+Audio files and instrumental parts are available upon request.  All music is
+available under the Creative Commons BY-SA.
+
+- [An Empty Box of
+  People]({{ site.baseurl }}/music/empty-box-of-people) - a musical
+- [If Only - The Musical]({{ site.baseurl }}/music/if-only)
+- Incidental Music for Shakespeare's *A Midsummer Night's Dream*
+  ([pdf]({{ site.baseurl }}/public/music/midsummer-full-score.pdf))
+  ([parts]({{ site.baseurl }}/public/music/midsummer-parts.zip))
+  ([mscz]({{ site.baseurl }}/public/music/midsummer-musescore-files.zip))
+- Sonata for Trombone and Piano ([pdf]({{ site.baseurl }}/public/music/trombone-sonata.pdf))
+  ([mscz]({{ site.baseurl }}/public/music/tbsonata-mscz.zip))
+- Chicago - For Chamber Orchestra ([pdf]({{ site.baseurl }}/public/music/chicago.pdf))
+  ([mscz]({{ site.baseurl }}/public/music/chicago.mscz))
+
 
 ## Other
 
-- Sometimes I [compose music]({{ site.baseurl }}/music).
 - I occasionally update my [quasi-scientific blog](http://blog.maxshinnpotential.com).
 - Here is a [music box soundfont]({{ site.baseurl }}/public/shinn_music_box.sf2) which I am releasing as public domain.
 - Various [executive function tasks and experiments]({{ site.baseurl
@@ -56,7 +72,6 @@ available under the GNU GPLv3 unless otherwise specified.
   MuseScore](https://bookshop.org/books/instant-musescore/9781783559367),
   are available under the Creative Commons BY-SA License.
   - Also see Marc Sabatella's [brilliant book on MuseScore 2.0](https://bookshop.org/books/mastering-musescore-make-beautiful-sheet-music-with-musescore-2-1/9781508621683).
-- A new [Wikipedia article per day](https://scholar.social/@knowway), curated from a weekly category of broad general interest.  [RSS feed](https://scholar.social/users/knowway.rss) [Atom](https://scholar.social/users/knowway.atom)
 - Here is a recent [picture of me]({{ site.baseurl
   }}/public/max-shinn-photo.jpg) courtesy of (and copyright) Pat
   O'Leary.
