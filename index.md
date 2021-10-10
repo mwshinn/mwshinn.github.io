@@ -75,8 +75,6 @@ available under the Creative Commons BY-SA.
 - Here is a recent [picture of me]({{ site.baseurl
   }}/public/max-shinn-photo.jpg) courtesy of (and copyright) Pat
   O'Leary.
-- Anyone who does scientific programming should 
-  [read this paper on best practices](https://doi.org/10.1371/journal.pcbi.1005510).
 - Here are some
   [good (and not so good) books](https://www.goodreads.com/review/list/26573313-max-shinn?shelf=read&sort=date_read).
 
@@ -88,14 +86,11 @@ available under the Creative Commons BY-SA.
 
 [Email](mailto:max-aht-maxshinnpotential-daht-com)
 
-I extend an open invite to email me.  I love receiving
-questions/comments/criticisms about my work, and talking to people who use my
-software.  I am also open to hearing about new ideas or projects you are working
-on, or anything else you would like to ask or tell me about.  If you like, you
-may put "Open Invite" in the subject line.  We can meet in person if you are in
-the London area.  (Idea blatently stolen from [Hillel
-Wayne](https://hillelwayne.com/open-invite/) and [Simon
-Willison](https://simonwillison.net/2021/Feb/19/office-hours/).)
+I extend an open invite to email me.  I love talking to people who use my
+software, as well as receiving questions, comments, and (especially) criticisms
+about my work.  We can meet in person if you are in the London area.  (Idea
+blatently stolen from [Hillel Wayne](https://hillelwayne.com/open-invite/) and
+[Simon Willison](https://simonwillison.net/2021/Feb/19/office-hours/).)
 
 
 
