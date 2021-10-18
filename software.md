@@ -4,9 +4,8 @@ layout: default
 breadcrumb: Software
 ---
 
-The following abandoned software may or may not work for you, but they
-served some purpose at some point in time which is why I haven't taken
-them down.  They are all unsupported... proceed with caution!
+The following abandoned software may or may not work for you.  They are 
+all unsupported... so proceed with caution!
 
 - [Timezone converter](https://code.launchpad.net/~mwshinn/+junk/timezones) - A
   PHP script which allows you to provide a URL to a specific point in time.  It
@@ -24,6 +23,7 @@ them down.  They are all unsupported... proceed with caution!
   with more than two sexes.  Written in C++.
 - [Notes3](https://code.launchpad.net/~mwshinn/+junk/notes3) is a
   scientific note-taking program based on [Pandoc](http://pandoc.org).
+  Now I use org-mode.
 - [Notes (Notes1)](https://code.launchpad.net/~mwshinn/+junk/notes) -
   The first version of Notes3, written in Perl using Regexp::Grammars.
 - [Scheduler](https://code.launchpad.net/~mwshinn/+junk/scheduler) -

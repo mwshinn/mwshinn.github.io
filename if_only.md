@@ -11,8 +11,7 @@ Libretto by David Stauffer, Score by Max Shinn
 
 ### About
 
-*If Only* is a musical comedy/drama/thriller created by two students
-interested in musical theatre. It is available under the Creative
+*If Only* is a musical comedy/drama/thriller. It is available under the Creative
 Commons Attribution Share-Alike license, meaning that, more or less,
 anybody is free to look at it, share it, and perform it without
 licensing fees. (More specific information can be found in the
