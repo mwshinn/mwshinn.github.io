@@ -69,7 +69,7 @@ available under the Creative Commons BY-SA.
 - The [figures from my
   book]({{ site.baseurl }}/public/music/instant-musescore-figures.zip),
   [Instant
-  MuseScore](https://bookshop.org/books/instant-musescore/9781783559367),
+  MuseScore](https://www.amazon.co.uk/Instant-MuseScore-Maxwell-Shinn/dp/1783559365),
   are available under the Creative Commons BY-SA License.
   - Also see Marc Sabatella's [brilliant book on MuseScore 2.0](https://bookshop.org/books/mastering-musescore-make-beautiful-sheet-music-with-musescore-2-1/9781508621683).
 - Here is a recent [picture of me]({{ site.baseurl
