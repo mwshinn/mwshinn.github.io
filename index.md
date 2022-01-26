@@ -17,9 +17,14 @@ Murray](https://johndmurray.org/) and [Daeyeol
 Lee](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, and my master's
 with [Ed
 Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23) at
-Cambridge.
+Cambridge.  My undergrad is from the University of Minnesota.
 
 [List of publications on Google Scholar.](https://scholar.google.com/citations?user=ytVKRfkAAAAj)
+
+Talks available online:
+
+- [The generalized drift diffusion model enables high-throughput screening of perceptual decision-making strategies](https://www.youtube.com/watch?v=_7bDWmxixBE)
+- [Transient neuronal suppression for exploitation of new sensory evidence](https://www.youtube.com/watch?v=-H2aCpHcEYw)
 
 ## Software
 
@@ -52,11 +57,8 @@ available under the Creative Commons BY-SA.
 - Incidental Music for Shakespeare's *A Midsummer Night's Dream*
   ([pdf]({{ site.baseurl }}/public/music/midsummer-full-score.pdf))
   ([parts]({{ site.baseurl }}/public/music/midsummer-parts.zip))
-  ([mscz]({{ site.baseurl }}/public/music/midsummer-musescore-files.zip))
 - Sonata for Trombone and Piano ([pdf]({{ site.baseurl }}/public/music/trombone-sonata.pdf))
-  ([mscz]({{ site.baseurl }}/public/music/tbsonata-mscz.zip))
 - Chicago - For Chamber Orchestra ([pdf]({{ site.baseurl }}/public/music/chicago.pdf))
-  ([mscz]({{ site.baseurl }}/public/music/chicago.mscz))
 
 
 ## Other
