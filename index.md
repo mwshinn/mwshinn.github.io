@@ -7,9 +7,8 @@ breadcrumb: Home
 ## Research
 
 I am interested in using mathematical, statistical, and computational tools to
-understand the brain.  I work on spatial and temporal autocorrelation, changing
-evidence during decision-making, generalized drift diffusion models,
-connectomics, and software verification
+understand the brain.  I work on changing evidence during decision-making, 
+generalized drift diffusion models, fMRI connectomics, and software verification.
 
 I am currently a postdoc with [Kenneth Harris and Matteo
 Carandini](https://www.ucl.ac.uk/cortexlab/) at UCL.  I did my PhD with [John
@@ -19,7 +18,7 @@ with [Ed
 Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23) at
 Cambridge.  My undergrad is from the University of Minnesota.
 
-[List of publications on Google Scholar.](https://scholar.google.com/citations?user=ytVKRfkAAAAj)
+[List of publications on Google Scholar.](https://scholar.google.com/citations?hl=en&user=ytVKRfkAAAAJ&view_op=list_works&sortby=pubdate)
 
 Talks available online:
 
@@ -30,6 +29,9 @@ Talks available online:
 
 -   [PyDDM](https://github.com/mwshinn/PyDDM) is a
     simulator for the Drift Diffusion Model (DDM) in cognitive neuroscience.
+-   [spatiotemporal](https://github.com/mwshinn/spatiotemporal) is a Python
+    library for modeling spatial and temporal autocorrelation, especially in
+    resting state fMRI data.
 -   [CanD](https://github.com/mwshinn/CanD) is a Python library for designing complex
     matplotlib layouts and multipanel figures
 -   [Paranoid Scientist](https://github.com/mwshinn/paranoidscientist)
@@ -73,7 +75,6 @@ available under the Creative Commons BY-SA.
   [Instant
   MuseScore](https://www.amazon.co.uk/Instant-MuseScore-Maxwell-Shinn/dp/1783559365),
   are available under the Creative Commons BY-SA License.
-  - Also see Marc Sabatella's [brilliant book on MuseScore 2.0](https://bookshop.org/books/mastering-musescore-make-beautiful-sheet-music-with-musescore-2-1/9781508621683).
 - Here is a recent [picture of me]({{ site.baseurl
   }}/public/max-shinn-photo.jpg) courtesy of (and copyright) Pat
   O'Leary.
@@ -88,8 +89,9 @@ available under the Creative Commons BY-SA.
 
 [Email](mailto:max-aht-maxshinnpotential-daht-com)
 
-I extend an open invite to email me.  I love talking to people who use my
-software, as well as receiving questions, comments, and (especially) criticisms
+I extend an open invitation to email me for any reason whatsoever, and I will
+try to respond promptly.  I especially love talking to people who use my
+software, as well as receiving questions, comments, and constructive criticism
 about my work.  We can meet in person if you are in the London area.  (Idea
 blatently stolen from [Hillel Wayne](https://hillelwayne.com/open-invite/) and
 [Simon Willison](https://simonwillison.net/2021/Feb/19/office-hours/).)
