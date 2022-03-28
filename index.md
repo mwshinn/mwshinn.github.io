@@ -10,7 +10,7 @@ I am interested in using mathematical, statistical, and computational tools to
 understand the brain.  I work on changing evidence during decision-making, 
 generalized drift diffusion models, fMRI connectomics, and software verification.
 
-I am currently a postdoc with [Kenneth Harris and Matteo
+I am currently a research fellow with [Kenneth Harris and Matteo
 Carandini](https://www.ucl.ac.uk/cortexlab/) at UCL.  I did my PhD with [John
 Murray](https://johndmurray.org/) and [Daeyeol
 Lee](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, and my master's
@@ -89,12 +89,12 @@ available under the Creative Commons BY-SA.
 
 [Email](mailto:max-aht-maxshinnpotential-daht-com)
 
-I extend an open invitation to email me for any reason whatsoever, and I will
-try to respond promptly.  I especially love talking to people who use my
-software, as well as receiving questions, comments, and constructive criticism
-about my work.  We can meet in person if you are in the London area.  (Idea
-blatently stolen from [Hillel Wayne](https://hillelwayne.com/open-invite/) and
-[Simon Willison](https://simonwillison.net/2021/Feb/19/office-hours/).)
+I extend an open invitation to email me, and I will try to respond promptly.  I
+especially love talking to people who use my software, as well as receiving
+questions, comments, and constructive criticism about my work.  We can meet in
+person if you are in the London area.  (Idea blatently stolen from [Hillel
+Wayne](https://hillelwayne.com/open-invite/) and [Simon
+Willison](https://simonwillison.net/2021/Feb/19/office-hours/).)
 
 
 
