@@ -4,31 +4,34 @@ layout: default
 breadcrumb: Home
 ---
 
-## Research
+## Neuroscience research
 
-I am interested in using mathematical, statistical, and computational tools to
-understand the brain.  I work on changing evidence during decision-making, 
-generalized drift diffusion models, fMRI connectomics, and software verification.
+I want to understand computations in the brain: the algorithms the brain uses to
+make sense the world, and the implementation of those algorithms on neural
+hardware.  (Technical keywords: *single cell transcriptomics, electrophysiology,
+high-dimensionality, generalized drift diffusion models, resting state fMRI,
+connectomics*)
 
-I am currently a research fellow with [Kenneth Harris and Matteo
-Carandini](https://www.ucl.ac.uk/cortexlab/) at UCL.  I did my PhD with [John
-Murray](https://johndmurray.org/) and [Daeyeol
-Lee](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, and my master's
-with [Ed
-Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23) at
-Cambridge.  My undergrad is from the University of Minnesota.
-
-[List of publications on Google Scholar.](https://scholar.google.com/citations?hl=en&user=ytVKRfkAAAAJ&view_op=list_works&sortby=pubdate)
+[List of publications](https://scholar.google.com/citations?hl=en&user=ytVKRfkAAAAJ&view_op=list_works&sortby=pubdate)
 
 Talks available online:
 
 - [The generalized drift diffusion model enables high-throughput screening of perceptual decision-making strategies](https://www.youtube.com/watch?v=_7bDWmxixBE)
 - [Transient neuronal suppression for exploitation of new sensory evidence](https://www.youtube.com/watch?v=-H2aCpHcEYw)
 
-## Software
+I am currently a research fellow with [Kenneth Harris and Matteo
+Carandini](https://www.ucl.ac.uk/cortexlab/) at UCL.  I did my PhD in neuroscience with [John
+Murray](https://johndmurray.org/) and [Daeyeol
+Lee](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, my master's
+in medical science with [Ed
+Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23) at
+Cambridge, and my undergrad in mathematics at the University of Minnesota.
+
+
+## Scientific software
 
 -   [PyDDM](https://github.com/mwshinn/PyDDM) is a
-    simulator for the Drift Diffusion Model (DDM) in cognitive neuroscience.
+    simulator for the generalized drift-diffusion model (DDM) in cognitive neuroscience.
 -   [spatiotemporal](https://github.com/mwshinn/spatiotemporal) is a Python
     library for modeling spatial and temporal autocorrelation, especially in
     resting state fMRI data.
@@ -36,11 +39,14 @@ Talks available online:
     matplotlib layouts and multipanel figures
 -   [Paranoid Scientist](https://github.com/mwshinn/paranoidscientist)
     is a runtime verification Python library for scientific software.
--   [worldti.me](https://worldti.me) provides permanent links to the
-    the local time, useful for coordinating times across timezones
 -   Find the [versatility](https://github.com/mwshinn/versatility) of a network.
     For more information see [the original
     paper](https://www.nature.com/articles/s41598-017-03394-5).
+
+## Other software
+
+-   [worldti.me](https://worldti.me) provides permanent links to the
+    the local time, useful for coordinating times across timezones
 -   [WriteType](writetype) helps
     elementary school students experience success in writing
 -   There are also several [abandoned projects]({{ site.baseurl }}/software).
@@ -62,19 +68,26 @@ available under the Creative Commons BY-SA.
 - Sonata for Trombone and Piano ([pdf]({{ site.baseurl }}/public/music/trombone-sonata.pdf))
 - Chicago - For Chamber Orchestra ([pdf]({{ site.baseurl }}/public/music/chicago.pdf))
 
+## Blog
+
+I have a blog where I do [fun data analyses](http://blog.maxshinnpotential.com).
+A few of my favourite posts are:
+
+- [Does "Flight of the Bumblebee" resemble bumblebee flight?](http://blog.maxshinnpotential.com/2022/06/04/flight-of-the-bumblebee.html)
+- [Are buffets efficient?](http://blog.maxshinnpotential.com/2019/03/02/are-buffets-efficient.html)
+- [Optimality in card shuffling](http://blog.maxshinnpotential.com/2017/11/05/optimality-in-card-shuffling.html)
 
 ## Other
 
-- I occasionally update my [quasi-scientific blog](http://blog.maxshinnpotential.com).
-- Here is a [music box soundfont]({{ site.baseurl }}/public/shinn_music_box.sf2) which I am releasing as public domain.
-- Various [executive function tasks and experiments]({{ site.baseurl
-  }}/ef-tasks) from the
-  [Zelazo Lab](http://www.cehd.umn.edu/icd/research/zelazolab/)
 - The [figures from my
   book]({{ site.baseurl }}/public/music/instant-musescore-figures.zip),
   [Instant
   MuseScore](https://www.amazon.co.uk/Instant-MuseScore-Maxwell-Shinn/dp/1783559365),
   are available under the Creative Commons BY-SA License.
+- Here is a [music box soundfont]({{ site.baseurl }}/public/shinn_music_box.sf2) which I am releasing as public domain.
+- Various [executive function tasks and experiments]({{ site.baseurl
+  }}/ef-tasks) from the
+  [Zelazo Lab](http://www.cehd.umn.edu/icd/research/zelazolab/)
 - Here is a recent [picture of me]({{ site.baseurl
   }}/public/max-shinn-photo.jpg) courtesy of (and copyright) Pat
   O'Leary.
@@ -92,7 +105,7 @@ available under the Creative Commons BY-SA.
 I extend an open invitation to email me, and I will try to respond promptly.  I
 especially love talking to people who use my software, as well as receiving
 questions, comments, and constructive criticism about my work.  We can meet in
-person if you are in the London area.  (Idea blatently stolen from [Hillel
+person if you are in the London area.  (Idea blatantly stolen from [Hillel
 Wayne](https://hillelwayne.com/open-invite/) and [Simon
 Willison](https://simonwillison.net/2021/Feb/19/office-hours/).)
 
