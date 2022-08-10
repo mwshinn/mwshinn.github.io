@@ -8,9 +8,11 @@ breadcrumb: Home
 
 I want to understand computations in the brain: the algorithms the brain uses to
 make sense the world, and the implementation of those algorithms on neural
-hardware.  (Technical keywords: *single cell transcriptomics, electrophysiology,
-high-dimensionality, generalized drift diffusion models, resting state fMRI,
-connectomics*)
+hardware.  I focus on the computations involved in vision and decision-making,
+including how the brain's cellular anatomy and high-dimensional activity
+patterns give rise to complex behavior.  (Technical keywords: *single cell
+transcriptomics, electrophysiology, theoretical neuroscience, generalized
+drift-diffusion model, resting state fMRI, connectomics*)
 
 [List of publications](https://scholar.google.com/citations?hl=en&user=ytVKRfkAAAAJ&view_op=list_works&sortby=pubdate)
 
@@ -45,8 +47,8 @@ Cambridge, and my undergrad in mathematics at the University of Minnesota.
 
 ## Other software
 
--   [worldti.me](https://worldti.me) provides permanent links to the
-    the local time, useful for coordinating times across timezones
+-   [worldti.me](https://worldti.me) provides permanent links to the local time,
+    useful for coordinating times across timezones
 -   [WriteType](writetype) helps
     elementary school students experience success in writing
 -   There are also several [abandoned projects]({{ site.baseurl }}/software).
