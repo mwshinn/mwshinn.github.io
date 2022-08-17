@@ -6,13 +6,13 @@ breadcrumb: Home
 
 ## Neuroscience research
 
-I want to understand computations in the brain: the algorithms the brain uses to
-make sense the world, and the implementation of those algorithms on neural
-hardware.  I focus on the computations involved in vision and decision-making,
-including how the brain's cellular anatomy and high-dimensional activity
-patterns give rise to complex behavior.  (Technical keywords: *single cell
-transcriptomics, electrophysiology, theoretical neuroscience, generalized
-drift-diffusion model, resting state fMRI, connectomics*)
+I want to understand computations in the brain: this includes deciphering the
+algorithms the brain uses to make sense the world, as well as uncovering the
+implementation of those algorithms on neural hardware.  I focus on the
+computations involved in vision and decision-making, using clues ranging from
+cellular anatomy to high-dimensional activity patterns.  (Technical keywords:
+*single cell transcriptomics, electrophysiology, theoretical neuroscience, V1,
+generalized drift-diffusion model, resting state fMRI, connectomics*)
 
 [List of publications](https://scholar.google.com/citations?hl=en&user=ytVKRfkAAAAJ&view_op=list_works&sortby=pubdate)
 
