@@ -41,6 +41,8 @@ success.  Some major features include:
 
 The current version of WriteType is 1.3.163
 
+Note that WriteType depends on older versions of Python.  If you are interested in bringing it up to modern standards, please let me know.
+
 Windows Users:
 
 - The [Windows Installer (x86)](downloads/wt-1.3.161.exe) is the
