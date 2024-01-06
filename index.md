@@ -6,12 +6,12 @@ breadcrumb: Home
 
 ## Neuroscience research
 
-I study computations in the brain: this includes deciphering the
-algorithms the brain uses to make sense the world, as well as uncovering the
-implementation of those algorithms on neural hardware.  I focus on the
-computations involved in vision and decision-making, using clues ranging from
-cellular anatomy to high-dimensional activity patterns.  (Technical keywords:
-*transcriptomics, electrophysiology, theoretical neuroscience, V1,
+I study computations in the brain: this includes deciphering the algorithms the
+brain uses to make sense the world, as well as uncovering the implementation of
+those algorithms on neural hardware.  I focus on the computations involved in
+vision and decision-making, using clues ranging from cellular anatomy to
+high-dimensional activity patterns.  (Technical keywords: *transcriptomics,
+electrophysiology, theoretical neuroscience, V1, phantom oscillations,
 generalized drift-diffusion model, resting state fMRI, connectomics*)
 
 [List of publications](https://scholar.google.com/citations?hl=en&user=ytVKRfkAAAAJ&view_op=list_works&sortby=pubdate)
@@ -83,10 +83,10 @@ A few of my favourite posts are:
 
 - The [figures from my
   book]({{ site.baseurl }}/public/music/instant-musescore-figures.zip),
-  [Instant
-  MuseScore](https://www.amazon.co.uk/Instant-MuseScore-Maxwell-Shinn/dp/1783559365),
+  [Instant MuseScore](https://www.amazon.co.uk/Instant-MuseScore-Maxwell-Shinn/dp/1783559365),
   are available under the Creative Commons BY-SA License.
-- Here is a [music box soundfont]({{ site.baseurl }}/public/shinn_music_box.sf2) which I am releasing as public domain.
+- Open access link for my paper [Phantom oscillations in principal component analysis](https://discovery.ucl.ac.uk/id/eprint/10183353/)
+- A [music box soundfont]({{ site.baseurl }}/public/shinn_music_box.sf2) which I am releasing as public domain.
 - Various [executive function tasks and experiments]({{ site.baseurl
   }}/ef-tasks) from the
   [Zelazo Lab](http://www.cehd.umn.edu/icd/research/zelazolab/)
