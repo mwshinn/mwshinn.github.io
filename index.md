@@ -75,6 +75,7 @@ available under the Creative Commons BY-SA.
 I have a blog where I do [fun data analyses](http://blog.maxshinnpotential.com).
 A few of my favourite posts are:
 
+- [Which word is the bird?](http://blog.maxshinnpotential.com/2024/03/17/which-word-is-the-bird.html)
 - [Does "Flight of the Bumblebee" resemble bumblebee flight?](http://blog.maxshinnpotential.com/2022/06/04/flight-of-the-bumblebee.html)
 - [Are buffets efficient?](http://blog.maxshinnpotential.com/2019/03/02/are-buffets-efficient.html)
 - [Optimality in card shuffling](http://blog.maxshinnpotential.com/2017/11/05/optimality-in-card-shuffling.html)
