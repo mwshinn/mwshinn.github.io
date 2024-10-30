@@ -6,22 +6,15 @@ breadcrumb: Home
 
 ## Neuroscience research
 
-The brain is perhaps the most complicated and fascinating object in existence.
-How is it that, in a fraction of a second, this 1kg piece of meat can accomplish
-feats unattainable by the world's most powerful supercomputers?
+I study computations in the brain: this includes deciphering the algorithms the
+brain uses to make sense the world, and uncovering the implementation of those
+algorithms on neural hardware.  I do this by creating new experimental and
+statistics techniques to look at single neurons, local circuits, and brain-wide
+activity patterns across timescales.
 
-My research investigates the simplest building blocks that lead to these
-complicated behaviours.  I study the low-level computations the brain uses
-during vision and decision-making.  This includes identifying these basic
-computations and determining the brain anatomy that implements them.  I
-specialise in the impact of the passage of time (on the scale of seconds or
-less) and on the role of microcircuitry.
-
-To do this, I create new experimental and statistics techniques, and use them to
-look at single neurons, individual genes, local brain circuits, and patterns of
-brain-wide activity.
-
-*Technical keywords: electrophysiology, transcriptomics, theoretical neuroscience, two-photon imaging, V1, phantom oscillations, generalized drift-diffusion model, resting state fMRI, connectomics*
+*Technical keywords: spatial transcriptomics, theoretical neuroscience,
+electrophysiology, two-photon imaging, V1, phantom oscillations, generalized
+drift-diffusion model, resting state fMRI, autocorrelation*
 
 [List of publications](https://scholar.google.com/citations?hl=en&user=ytVKRfkAAAAJ&view_op=list_works&sortby=pubdate)
 
