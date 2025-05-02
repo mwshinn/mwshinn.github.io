@@ -23,13 +23,12 @@ Talks available online:
 - [The generalized drift diffusion model enables high-throughput screening of perceptual decision-making strategies](https://www.youtube.com/watch?v=_7bDWmxixBE)
 - [Transient neuronal suppression for exploitation of new sensory evidence](https://www.youtube.com/watch?v=-H2aCpHcEYw)
 
-I am currently a research fellow with [Kenneth Harris and Matteo
-Carandini](https://www.ucl.ac.uk/cortexlab/) at UCL.  I did my PhD in neuroscience with [John
+I am currently a research fellow working at UCL with [Kenneth Harris and Matteo
+Carandini](https://www.ucl.ac.uk/cortexlab/).  I did my PhD in neuroscience with [John
 Murray](https://johndmurray.org/) and [Daeyeol
-Lee](https://sites.krieger.jhu.edu/daeyeol-lee-lab/) at Yale, my master's
+Lee](https://sites.krieger.jhu.edu/daeyeol-lee-lab/), and my master's
 in medical science with [Ed
-Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23) at
-Cambridge, and my undergrad in mathematics at the University of Minnesota.
+Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23).
 
 
 ## Scientific software
