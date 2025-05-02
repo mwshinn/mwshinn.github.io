@@ -59,10 +59,11 @@ available under the GNU GPLv3 unless otherwise specified.
 
 ## Music
 
-I compose music, primarily for theatre.  I previously studied under [Carol
-Barnett](https://carolbarnett.net/) for 5 years.  Audio files and instrumental
-parts are available upon request.  All music is available under the Creative
-Commons BY-SA.
+I compose music, primarily for theatre.  I currently study in the [Book, Music,
+Lyrics (BML) program](https://www.bookmusicandlyrics.com/), and previously
+studied under [Carol Barnett](https://carolbarnett.net/).  Audio files and
+instrumental parts are available upon request.  All music is available under the
+Creative Commons BY-SA.
 
 - [An Empty Box of
   People]({{ site.baseurl }}/music/empty-box-of-people) - a musical
