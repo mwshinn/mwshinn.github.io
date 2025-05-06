@@ -102,7 +102,7 @@ A few of my favourite posts are:
 
 ## What's with the domain name?
 
-[It's a pun](https://en.wikipedia.org/wiki/Action_potential).
+[It's a neuroscience pun](https://en.wikipedia.org/wiki/Action_potential).
 
 ## Contact
 
