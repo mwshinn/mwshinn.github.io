@@ -2,6 +2,7 @@
 title: Max Shinn's Homepage
 layout: default
 breadcrumb: Home
+metadescription: I am a neuroscientist based in London trying to understand how the brain performs computations and processes information.
 ---
 
 ## Neuroscience research
@@ -59,7 +60,7 @@ available under the GNU GPLv3 unless otherwise specified.
 
 ## Music
 
-I compose music, primarily for theatre.  I currently study in the [Book, Music,
+I also compose music, primarily for theatre.  I currently study in the [Book, Music,
 Lyrics (BML) program](https://www.bookmusicandlyrics.com/), and previously
 studied under [Carol Barnett](https://carolbarnett.net/).  Audio files and
 instrumental parts are available upon request.  All music is available under the
