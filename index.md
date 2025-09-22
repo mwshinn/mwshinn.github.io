@@ -39,6 +39,8 @@ Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23).
 -   [spatiotemporal](https://github.com/mwshinn/spatiotemporal) is a Python
     library for modeling spatial and temporal autocorrelation, especially in
     resting state fMRI data.
+-   [Zebra noise](https://github.com/mwshinn/zebra_noise) is a visual stimulus for 
+    neuron fingerprinting and mapping visual selectivity
 -   [CanD](https://github.com/mwshinn/CanD) is a Python library for designing complex
     matplotlib layouts and multipanel figures
 -   [Paranoid Scientist](https://github.com/mwshinn/paranoidscientist)
