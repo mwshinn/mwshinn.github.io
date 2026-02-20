@@ -10,12 +10,12 @@ metadescription: I am a neuroscientist based in London trying to understand how 
 I study computations in the brain: this includes deciphering the algorithms the
 brain uses to make sense the world, and uncovering the implementation of those
 algorithms on neural hardware.  I do this by creating new experimental and
-statistics techniques to look at single neurons, local circuits, and brain-wide
+statistical techniques to look at single neurons, local circuits, and brain-wide
 activity patterns across timescales.
 
-*Technical keywords: spatial transcriptomics, theoretical neuroscience,
+*Technical keywords: spatial transcriptomics, timescales, theoretical neuroscience,
 electrophysiology, two-photon imaging, V1, phantom oscillations, generalized
-drift-diffusion model, resting state fMRI, autocorrelation*
+drift-diffusion models, reliable component analysis, resting state fMRI, autocorrelation*
 
 [List of publications](https://scholar.google.com/citations?hl=en&user=ytVKRfkAAAAJ&view_op=list_works&sortby=pubdate)
 
