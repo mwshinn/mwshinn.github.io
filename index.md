@@ -15,7 +15,7 @@ activity patterns across timescales.
 
 *Technical keywords: spatial transcriptomics, timescales, theoretical neuroscience,
 electrophysiology, two-photon imaging, V1, phantom oscillations, generalized
-drift-diffusion models, reliable component analysis, resting state fMRI, autocorrelation*
+drift-diffusion models, reliable component analysis, coppafish, resting state fMRI, autocorrelation*
 
 [List of publications](https://scholar.google.com/citations?hl=en&user=ytVKRfkAAAAJ&view_op=list_works&sortby=pubdate)
 
@@ -34,13 +34,12 @@ Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23).
 
 ## Scientific software
 
--   [CASTalign](https://github.com/mwshinn/castalign) is a simple, lightweight
-    tool to align two-photon imaging with ex vivo brain sections, such as from
-    spatial transcriptomics or antibody staining
+-   [CASTalign](https://github.com/mwshinn/castalign) registers *in vivo* calcium imaging
+    with *ex vivo* brain sections, such as from spatial transcriptomics or
+    antibody staining
 -   [Reliable Component Analysis
-    (RCA)](https://github.com/maxweissenbacher/scikit-rca) uses contrastive
-    learning to find maximally reliable linear or non-linear dimensions (similar to PCA, but
-    maximising test-retest reliability instead of explained variance)
+    (RCA)](https://github.com/maxweissenbacher/scikit-rca) finds maximally reliable dimensions using contrastive learning (similar to PCA, but
+    maximizing test-retest reliability instead of explained variance)
 -   [PyDDM](https://github.com/mwshinn/PyDDM) is a
     simulator for the generalized drift-diffusion model (DDM) in cognitive neuroscience.
 -   [Zebra noise](https://github.com/mwshinn/zebra_noise) is a visual stimulus for 
@@ -63,7 +62,7 @@ under the GNU GPLv3 unless otherwise specified.
 ## Blog
 
 I do [fun data analyses](http://blog.maxshinnpotential.com) on my blog.
-A few fun posts:
+A few posts:
 
 - [Which word is the bird?](http://blog.maxshinnpotential.com/2024/03/17/which-word-is-the-bird.html)
 - [Does "Flight of the Bumblebee" resemble bumblebee flight?](http://blog.maxshinnpotential.com/2022/06/04/flight-of-the-bumblebee.html)
