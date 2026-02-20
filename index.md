@@ -56,7 +56,7 @@ Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23).
     For more information see [the original
     paper](https://www.nature.com/articles/s41598-017-03394-5).
 
-Also see [Other software]({{ site.baseurl }}/software) or my
+Also see [other software]({{ site.baseurl }}/software) or my
 [Github](https://github.com/mwshinn).  All software listed here is available
 under the GNU GPLv3 unless otherwise specified.
 
