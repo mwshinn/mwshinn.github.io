@@ -34,13 +34,20 @@ Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23).
 
 ## Scientific software
 
+-   [CASTalign](https://github.com/mwshinn/castalign) is a simple, lightweight
+    tool to align two-photon imaging with ex vivo brain sections, such as from
+    spatial transcriptomics or antibody staining
+-   [Reliable Component Analysis
+    (RCA)](https://github.com/maxweissenbacher/scikit-rca) uses contrastive
+    learning to find maximally reliable linear or non-linear dimensions (similar to PCA, but
+    maximising test-retest reliability instead of explained variance)
 -   [PyDDM](https://github.com/mwshinn/PyDDM) is a
     simulator for the generalized drift-diffusion model (DDM) in cognitive neuroscience.
+-   [Zebra noise](https://github.com/mwshinn/zebra_noise) is a visual stimulus for 
+    neuron fingerprinting and mapping neuron visual responses properties
 -   [spatiotemporal](https://github.com/mwshinn/spatiotemporal) is a Python
     library for modeling spatial and temporal autocorrelation, especially in
     resting state fMRI data.
--   [Zebra noise](https://github.com/mwshinn/zebra_noise) is a visual stimulus for 
-    neuron fingerprinting and mapping visual selectivity
 -   [CanD](https://github.com/mwshinn/CanD) is a Python library for designing complex
     matplotlib layouts and multipanel figures
 -   [Paranoid Scientist](https://github.com/mwshinn/paranoidscientist)
@@ -49,20 +56,23 @@ Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23).
     For more information see [the original
     paper](https://www.nature.com/articles/s41598-017-03394-5).
 
-## Other software
+Also see [Other software]({{ site.baseurl }}/software) or my
+[Github](https://github.com/mwshinn).  All software listed here is available
+under the GNU GPLv3 unless otherwise specified.
 
--   [worldti.me](https://worldti.me) provides permanent links to the local time,
-    useful for coordinating times across timezones
--   [WriteType](writetype) helps
-    elementary school students experience success in writing
--   There are also several [abandoned projects]({{ site.baseurl }}/software).
+## Blog
 
-Also see my [Github](https://github.com/mwshinn).  All software listed here is
-available under the GNU GPLv3 unless otherwise specified.
+I do [fun data analyses](http://blog.maxshinnpotential.com) on my blog.
+A few fun posts:
+
+- [Which word is the bird?](http://blog.maxshinnpotential.com/2024/03/17/which-word-is-the-bird.html)
+- [Does "Flight of the Bumblebee" resemble bumblebee flight?](http://blog.maxshinnpotential.com/2022/06/04/flight-of-the-bumblebee.html)
+- [Are buffets efficient?](http://blog.maxshinnpotential.com/2019/03/02/are-buffets-efficient.html)
+- [Optimality in card shuffling](http://blog.maxshinnpotential.com/2017/11/05/optimality-in-card-shuffling.html)
 
 ## Music
 
-I also compose music, primarily for theatre.  I currently study in the [Book, Music,
+I compose music, primarily for theatre.  I currently study in the [Book, Music,
 Lyrics (BML) program](https://www.bookmusicandlyrics.com/), and previously
 studied under [Carol Barnett](https://carolbarnett.net/).  Audio files and
 instrumental parts are available upon request.  All music is available under the
@@ -76,16 +86,6 @@ Creative Commons BY-SA.
   ([parts]({{ site.baseurl }}/public/music/midsummer-parts.zip))
 - Sonata for Trombone and Piano ([pdf]({{ site.baseurl }}/public/music/trombone-sonata.pdf))
 - Chicago - For Chamber Orchestra ([pdf]({{ site.baseurl }}/public/music/chicago.pdf))
-
-## Blog
-
-I have a blog where I do [fun data analyses](http://blog.maxshinnpotential.com).
-A few of my favourite posts are:
-
-- [Which word is the bird?](http://blog.maxshinnpotential.com/2024/03/17/which-word-is-the-bird.html)
-- [Does "Flight of the Bumblebee" resemble bumblebee flight?](http://blog.maxshinnpotential.com/2022/06/04/flight-of-the-bumblebee.html)
-- [Are buffets efficient?](http://blog.maxshinnpotential.com/2019/03/02/are-buffets-efficient.html)
-- [Optimality in card shuffling](http://blog.maxshinnpotential.com/2017/11/05/optimality-in-card-shuffling.html)
 
 ## Other
 

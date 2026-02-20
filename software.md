@@ -7,6 +7,10 @@ breadcrumb: Software
 The following abandoned software may or may not work for you.  They are 
 all unsupported... so proceed with caution!
 
+- [worldti.me](https://worldti.me) provides permanent links to the local time,
+  useful for coordinating times across timezones
+- [WriteType](writetype) helps
+  elementary school students experience success in writing
 - [Timezone converter](https://code.launchpad.net/~mwshinn/+junk/timezones) - A
   PHP script which allows you to provide a URL to a specific point in time.  It
   is useful for coordinating across several timezones.  So for instance, input
