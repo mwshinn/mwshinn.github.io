@@ -37,7 +37,7 @@ Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23).
 -   [CASTalign](https://github.com/mwshinn/castalign) registers *in vivo* calcium imaging
     with *ex vivo* brain sections, such as from spatial transcriptomics or
     antibody staining
--   [Reliable Component Analysis
+-   [Reliability Component Analysis
     (RCA)](https://github.com/maxweissenbacher/scikit-rca) finds maximally reliable dimensions using contrastive learning (similar to PCA, but
     maximizing test-retest reliability instead of explained variance)
 -   [PyDDM](https://github.com/mwshinn/PyDDM) is a
