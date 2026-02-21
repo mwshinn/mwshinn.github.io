@@ -83,7 +83,7 @@ Creative Commons BY-SA.
 - Incidental Music for Shakespeare's *A Midsummer Night's Dream*
   ([pdf]({{ site.baseurl }}/public/music/midsummer-full-score.pdf))
   ([parts]({{ site.baseurl }}/public/music/midsummer-parts.zip))
-- Sonata for Trombone and Piano ([pdf]({{ site.baseurl }}/public/music/trombone-sonata.pdf))
+- Sonata for Trombone and Piano ([pdf]({{ site.baseurl }}/public/music/trombone-sonata.pdf)) ([part]({{ site.baseurl }}/public/music/trombone-sonata-trombone-part.pdf))
 - Chicago - For Chamber Orchestra ([pdf]({{ site.baseurl }}/public/music/chicago.pdf))
 
 ## Other
