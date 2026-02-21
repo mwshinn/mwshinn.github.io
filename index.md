@@ -100,7 +100,7 @@ Creative Commons BY-SA.
   }}/public/max-shinn-photo.jpg) courtesy of (and copyright) Pat
   O'Leary.
 - Here are some
-  [good (and not so good) books](https://www.goodreads.com/review/list/26573313-max-shinn?shelf=read&sort=date_read).
+  [good (and not so good) books](https://www.librarything.com/catalog.php?view=mwshinn&collection=1033108&shelf=list&sort=dateread).
 
 ## What's with the domain name?
 
