@@ -1,0 +1,29 @@
+<ul class="publication-list">
+  {% for paper in site.data.publications %}
+  <li class="publication" id="publication-{{ paper.id }}">
+    <div class="publication__image{% if paper.image_fit == 'cover' %} publication__image--cover{% endif %}">
+      {% if paper.image_optimized %}
+      <img src="{{ paper.image_optimized | relative_url }}" alt="{{ paper.image_alt | escape }}" width="{{ paper.image_optimized_width }}" height="{{ paper.image_optimized_height }}" loading="lazy" decoding="async">
+      {% elsif paper.image_crop %}
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="{{ paper.image_crop }}" role="img" aria-labelledby="thumbnail-{{ paper.id }}" focusable="false">
+        <title id="thumbnail-{{ paper.id }}">{{ paper.image_alt | escape }}</title>
+        {% assign crop = paper.image_crop | split: ' ' %}
+        <defs>
+          <clipPath id="clip-{{ paper.id }}" clipPathUnits="userSpaceOnUse">
+            {% if paper.image_clip_points %}<polygon points="{{ paper.image_clip_points }}"></polygon>{% else %}<rect x="{{ crop[0] }}" y="{{ crop[1] }}" width="{{ crop[2] }}" height="{{ crop[3] }}"></rect>{% endif %}
+          </clipPath>
+        </defs>
+        <image href="{{ paper.image | relative_url }}" width="{{ paper.image_width }}" height="{{ paper.image_height }}" clip-path="url(#clip-{{ paper.id }})"></image>
+      </svg>
+      {% else %}
+      <img src="{{ paper.image | relative_url }}" alt="{{ paper.image_alt | escape }}" width="176" height="132" loading="lazy" decoding="async">
+      {% endif %}
+    </div>
+    <div class="publication__details">
+      <h3><a href="{{ paper.url }}">{{ paper.title | escape }}</a></h3>
+      <p class="publication__authors">{% for author in paper.authors %}{% if author == 'Maxwell Shinn' %}<strong>{{ author | escape }}</strong>{% else %}{{ author | escape }}{% endif %}{% if paper.equal_authors contains author %}<span class="publication__asterisk" aria-label="equal first author">*</span>{% endif %}{% if paper.equal_senior_authors contains author %}<span class="publication__asterisk" aria-label="equal senior author">*</span>{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+      <p class="publication__citation"><cite>{{ paper.venue | escape }}</cite>{% if paper.citation %} {{ paper.citation | escape }}{% endif %} · {{ paper.year }}{% if paper.preprint %} <span class="publication__preprint">Preprint</span>{% endif %}</p>
+    </div>
+  </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,15 @@
+- id: mapping-neurons
+  title: Many kinds of neurons
+  description: Why do we have so many different types of neurons in the brain?
+  image: /assets/img/research/mapping-neurons-card.webp
+  image_alt: Fluorescently labelled neurons in a brain section.
+- id: brain-dimensionality
+  title: Simplifying a complex brain
+  description: Can machine learning uncover new and important patterns of brain activity?
+  image: /assets/img/research/brain-dimensionality-card.webp
+  image_alt: Illustration of overlapping blue oscillating curves.
+- id: decisions-in-time
+  title: Decisions in time
+  description: How does the brain combine information over time to make a decision?
+  image: /assets/img/research/decisions-in-time-card.webp
+  image_alt: Illustration of noisy evidence building toward a decision.

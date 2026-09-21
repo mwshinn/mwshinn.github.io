@@ -1,0 +1,208 @@
+- id: coppafish
+  title: Spatially resolved transcriptomic identification of thousands of neurons recorded in vivo
+  year: 2026
+  venue: bioRxiv
+  preprint: true
+  url: https://doi.org/10.64898/2026.05.15.725413
+  authors:
+  - Isabelle Prankerd
+  - Maxwell Shinn
+  - Paul C. Shuker
+  - Zhiyao Zhou
+  - Reilly Tilbury
+  - Joshua A. M. Duffield
+  - Christina A. Maat
+  - Dimitris Nicoloutsopoulos
+  - Anne Ritoux
+  - Paula V. Maglio Cauhy
+  - David Orme
+  - Mathieu Bourdenx
+  - Karen E. Duff
+  - Stéphane Bugeon
+  - Yoh Isogai
+  - Kenneth Harris
+  equal_authors:
+  - Isabelle Prankerd
+  - Maxwell Shinn
+  image: /assets/img/publications/coppafish-thumbnail.webp
+  image_alt: Fluorescence microscopy showing neurons labelled with spatial transcriptomics.
+  image_fit: cover
+  image_optimized: /assets/img/publications/coppafish-thumbnail.webp
+  image_optimized_width: 352
+  image_optimized_height: 189
+- id: rca
+  title: A low-variance subspace underlies individual differences in resting state fMRI
+  year: 2026
+  venue: bioRxiv
+  preprint: true
+  url: https://doi.org/10.64898/2026.01.25.701594
+  authors:
+  - Anastasia Borovykh
+  - Max Weissenbacher
+  - Stephanie Noble
+  - Maxwell Shinn
+  image: /assets/img/publications/rca-thumbnail.webp
+  image_alt: Participant clusters along two reliable components, from Figure 2c.
+  image_optimized: /assets/img/publications/rca-thumbnail.webp
+  image_optimized_width: 352
+  image_optimized_height: 288
+- id: zebra-noise
+  title: Mapping the visual cortex with Zebra noise and wavelets
+  year: 2026
+  venue: Journal of Vision
+  citation: 26(1), 1
+  url: https://doi.org/10.1167/jov.26.1.1
+  authors:
+  - Sophie Skriabine
+  - Maxwell Shinn
+  - Samuel Picard
+  - Kenneth D. Harris
+  - Matteo Carandini
+  equal_authors:
+  - Sophie Skriabine
+  - Maxwell Shinn
+  image: /assets/img/publications/zebra-noise-thumbnail.webp
+  image_alt: A frame of the black and white Zebra noise visual stimulus.
+  image_fit: cover
+  image_optimized: /assets/img/publications/zebra-noise-thumbnail.webp
+  image_optimized_width: 352
+  image_optimized_height: 264
+- id: phantom
+  title: Phantom oscillations in principal component analysis
+  year: 2023
+  venue: Proceedings of the National Academy of Sciences
+  citation: 120(48), e2311420120
+  url: https://doi.org/10.1073/pnas.2311420120
+  authors:
+  - Maxwell Shinn
+  image: /assets/img/publications/phantom-thumbnail.webp
+  image_alt: Clean schematic of overlapping oscillating principal-component loadings in shades of blue.
+  image_optimized: /assets/img/publications/phantom-thumbnail.webp
+  image_optimized_width: 352
+  image_optimized_height: 264
+- id: functional-networks
+  title: Functional brain networks reflect spatial and temporal autocorrelation
+  year: 2023
+  venue: Nature Neuroscience
+  citation: 26, 867–878
+  url: https://doi.org/10.1038/s41593-023-01299-3
+  authors:
+  - Maxwell Shinn
+  - Amber Hu
+  - Laurel Turner
+  - Stephanie Noble
+  - Katrin H. Preller
+  - Jie Lisa Ji
+  - Flora Moujaes
+  - Sophie Achard
+  - Dustin Scheinost
+  - R. Todd Constable
+  - John H. Krystal
+  - Franz X. Vollenweider
+  - Daeyeol Lee
+  - Alan Anticevic
+  - Edward T. Bullmore
+  - John D. Murray
+  equal_senior_authors:
+  - Edward T. Bullmore
+  - John D. Murray
+  image: /assets/img/publications/functional-networks-thumbnail.webp
+  image_alt: Four cortical surface views showing mean regional temporal autocorrelation, from Figure 1f.
+  image_optimized: /assets/img/publications/functional-networks-thumbnail.webp
+  image_optimized_width: 352
+  image_optimized_height: 245
+- id: bumblebee
+  title: Does “Flight of the Bumblebee” resemble bumblebee flight?
+  year: 2022
+  venue: SocArXiv
+  preprint: true
+  url: https://doi.org/10.31235/osf.io/4v6nu
+  authors:
+  - Maxwell Shinn
+  image: /assets/img/publications/bumblebee-thumbnail.webp
+  image_alt: Contrasting geometric and power-law random walks, from the accompanying blog post.
+  image_optimized: /assets/img/publications/bumblebee-thumbnail.webp
+  image_optimized_width: 352
+  image_optimized_height: 201
+- id: suppression
+  title: Transient neuronal suppression for exploitation of new sensory evidence
+  year: 2022
+  venue: Nature Communications
+  citation: 13, 23
+  url: https://doi.org/10.1038/s41467-021-27697-4
+  authors:
+  - Maxwell Shinn
+  - Daeyeol Lee
+  - John D. Murray
+  - Hyojung Seo
+  image: /assets/img/publications/suppression-thumbnail.webp
+  image_alt: A transient dip in frontal eye field activity after new evidence, from Figure 3d.
+  image_optimized: /assets/img/publications/suppression-thumbnail.webp
+  image_optimized_width: 312
+  image_optimized_height: 336
+- id: timing-reward
+  title: Confluence of timing and reward biases in perceptual decision-making dynamics
+  year: 2020
+  venue: Journal of Neuroscience
+  citation: 40(38), 7326–7342
+  url: https://doi.org/10.1523/JNEUROSCI.0544-20.2020
+  authors:
+  - Maxwell Shinn
+  - Daniel B. Ehrlich
+  - Daeyeol Lee
+  - John D. Murray
+  - Hyojung Seo
+  image: /assets/img/publications/timing-reward-thumbnail.webp
+  image_alt: Choice probability versus colour coherence for different presample durations, from Figure 2a.
+  image_optimized: /assets/img/publications/timing-reward-thumbnail.webp
+  image_optimized_width: 352
+  image_optimized_height: 335
+- id: pyddm
+  title: A flexible framework for simulating and fitting generalized drift-diffusion models
+  year: 2020
+  venue: eLife
+  citation: 9, e56938
+  url: https://doi.org/10.7554/eLife.56938
+  authors:
+  - Maxwell Shinn
+  - Norman H. Lam
+  - John D. Murray
+  equal_authors:
+  - Maxwell Shinn
+  - Norman H. Lam
+  image: /assets/img/publications/pyddm-thumbnail.webp
+  image_alt: A drift-diffusion model illustration inspired by Figure 1.
+  image_optimized: /assets/img/publications/pyddm-thumbnail.webp
+  image_optimized_width: 352
+  image_optimized_height: 264
+- id: refinement-types
+  title: Refinement type contracts for verification of scientific investigative software
+  year: 2020
+  venue: VSTTE 2019 · Lecture Notes in Computer Science
+  citation: 12031, 143–160
+  url: https://doi.org/10.1007/978-3-030-41600-3_10
+  authors:
+  - Maxwell Shinn
+  image: /assets/img/publications/refinement-types-thumbnail.webp
+  image_alt: Paranoid Scientist, the verification library introduced in the paper.
+  image_optimized: /assets/img/publications/refinement-types-thumbnail.webp
+  image_optimized_width: 352
+  image_optimized_height: 113
+- id: versatility
+  title: Versatility of nodal affiliation to communities
+  year: 2017
+  venue: Scientific Reports
+  citation: 7, 4273
+  url: https://doi.org/10.1038/s41598-017-03394-5
+  authors:
+  - Maxwell Shinn
+  - Rafael Romero-Garcia
+  - Jakob Seidlitz
+  - František Váša
+  - Petra E. Vértes
+  - Edward Bullmore
+  image: /assets/img/publications/versatility-thumbnail.webp
+  image_alt: Mouse brain connectivity network from Figure 4d, with nodes coloured by community and sized by versatility.
+  image_optimized: /assets/img/publications/versatility-thumbnail.webp
+  image_optimized_width: 352
+  image_optimized_height: 321

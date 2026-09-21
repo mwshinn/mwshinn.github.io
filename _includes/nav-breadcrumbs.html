@@ -1,9 +1,13 @@
-{% capture url %}{% if page.language%}{{ page.url | remove: "/" | remove: page.language }}{% else %}{{ page.url | remove: "/" }}{% endif %}{% endcapture %}
-{% if url.size > 0 %}
-  <nav class="breadcrumbs hidden-sm-down">
-
-    <!--<a class="breadcrumb-item" href="/"><img height="22" src="{{ site.baseurl }}/public/msp.png" /></a>-->
-    <a class="breadcrumb-item" href={{ "/" | prepend: site.baseurl }}>&lt;Home</a>
-
+{% if page.url != '/' %}
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    {% if page.section == 'research' %}
+      <span aria-hidden="true">/</span> <a href="{{ '/research/' | relative_url }}">Research</a>
+    {% elsif page.section == 'software' %}
+      <span aria-hidden="true">/</span> <a href="{{ '/software/' | relative_url }}">Software</a>
+    {% elsif page.section == 'music' %}
+      <span aria-hidden="true">/</span> <a href="{{ '/music/' | relative_url }}">Music</a>
+    {% endif %}
+    <span aria-hidden="true">/</span> <span aria-current="page">{{ page.breadcrumb | default: page.title | escape }}</span>
   </nav>
 {% endif %}

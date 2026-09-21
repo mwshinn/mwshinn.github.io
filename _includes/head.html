@@ -1,18 +1,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  {% if page.metadescription %}
-  <meta name="description" content="{{ page.metadescription }}"> 
-  {% endif %}
-
-  <title>
-    {% if page.breadcrumb == "Home" %}
-      {{ site.title }}
-    {% else %}
-      {{ page.title }}
-    {% endif %}
-  </title>
-
-  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
-  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
+  {% assign description = page.metadescription | default: page.description | default: site.description %}
+  <meta name="description" content="{{ description | escape }}">
+  <meta name="color-scheme" content="light dark">
+  <title>{% if page.url == '/' %}{{ site.title | escape }}{% else %}{{ page.title | escape }} · {{ site.author.name | escape }}{% endif %}</title>
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="{{ description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="preload" as="image" type="image/webp" href="{{ '/assets/img/site/header.webp' | relative_url }}" fetchpriority="high">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" href="{{ '/public/favicon.ico' | relative_url }}">
 </head>

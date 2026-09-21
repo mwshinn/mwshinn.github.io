@@ -1,0 +1,67 @@
+mapping-neurons:
+- title: Spatially resolved transcriptomic identification of thousands of neurons recorded in vivo
+  url: https://doi.org/10.64898/2026.05.15.725413
+  year: 2026
+  venue: bioRxiv (preprint)
+- title: Mapping the visual cortex with Zebra noise and wavelets
+  url: https://doi.org/10.1167/jov.26.1.1
+  year: 2026
+  venue: Journal of Vision
+- title: A transcriptomic axis predicts state modulation of cortical interneurons
+  url: https://doi.org/10.1038/s41586-022-04915-7
+  year: 2022
+  venue: Nature
+brain-dimensionality:
+- title: A low-variance subspace underlies individual differences in resting state fMRI
+  url: https://doi.org/10.64898/2026.01.25.701594
+  year: 2026
+  venue: bioRxiv (preprint)
+- title: Temporal and Spatial Scales of Human Resting-State Cortical Activity across the Lifespan
+  url: https://doi.org/10.1523/JNEUROSCI.0577-25.2025
+  year: 2026
+  venue: Journal of Neuroscience
+- title: Phantom oscillations in principal component analysis
+  url: https://doi.org/10.1073/pnas.2311420120
+  year: 2023
+  venue: PNAS
+- title: Functional brain networks reflect spatial and temporal autocorrelation
+  url: https://doi.org/10.1038/s41593-023-01299-3
+  year: 2023
+  venue: Nature Neuroscience
+- title: A transcriptomic axis predicts state modulation of cortical interneurons
+  url: https://doi.org/10.1038/s41586-022-04915-7
+  year: 2022
+  venue: Nature
+- title: Generative modeling of brain maps with spatial autocorrelation
+  url: https://doi.org/10.1016/j.neuroimage.2020.117038
+  year: 2020
+  venue: NeuroImage
+decisions-in-time:
+- title: Stress biases alcohol choice across timescales in daily life, but context gates its expression
+  url: https://osf.io/preprints/psyarxiv/pgd43_v1
+  year: 2026
+  venue: PsyArXiv (preprint)
+- title: The role of superior colliculus in a logistic decision
+  url: https://doi.org/10.64898/2026.06.05.730072
+  year: 2026
+  venue: bioRxiv (preprint)
+- title: Learning Decouples Accuracy and Reaction Time for Rapid Decisions in a Transitive Inference Task
+  url: https://doi.org/10.1162/jocn.a.2425
+  year: 2026
+  venue: Journal of Cognitive Neuroscience
+- title: How people decide to consume (more) alcohol when feeling stressed
+  url: https://doi.org/10.1111/add.70213
+  year: 2026
+  venue: Addiction
+- title: Transient neuronal suppression for exploitation of new sensory evidence
+  url: https://doi.org/10.1038/s41467-021-27697-4
+  year: 2022
+  venue: Nature Communications
+- title: Confluence of timing and reward biases in perceptual decision-making dynamics
+  url: https://doi.org/10.1523/JNEUROSCI.0544-20.2020
+  year: 2020
+  venue: Journal of Neuroscience
+- title: A flexible framework for simulating and fitting generalized drift-diffusion models
+  url: https://doi.org/10.7554/eLife.56938
+  year: 2020
+  venue: eLife

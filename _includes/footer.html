@@ -1,0 +1,16 @@
+<footer class="footer">
+  <div class="container clearfix">
+    <p class="copy">
+      Like the domain name? <a href="https://en.wikipedia.org/wiki/Action_potential">It's a neuroscience pun</a>.<br>
+      Last updated: <time datetime="{{ site.time | date: '%Y-%m-%d' }}">{{ site.time | date: '%-d %B %Y' }}</time>.
+    </p>
+    <div class="footer-links">
+      <ul class="noList">
+        {% if site.social.google_scholar %}{% include footer_links/google_scholar_icon.html %}{% endif %}
+        {% if site.social.github %}{% include footer_links/github_icon.html %}{% endif %}
+        {% if site.social.youtube %}{% include footer_links/youtube_icon.html %}{% endif %}
+        {% include footer_links/email_icon.html %}
+      </ul>
+    </div>
+  </div>
+</footer>

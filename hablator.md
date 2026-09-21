@@ -1,6 +1,7 @@
 ---
 title: The Hablator 0.5 "Rose" Stable chat script
-layout: default
+layout: page
+section: software
 breadcrumb: Hablator
 ---
 

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" role="img" aria-labelledby="title desc">
+<title id="title">Versatility in a network</title>
+<desc id="desc">Two fully connected groups of four pale-yellow nodes, linked through a red high-versatility node.</desc>
+<rect width="600" height="300" fill="white"/>
+<g stroke="#a1a8aa" stroke-width="2" stroke-linecap="round">
+<line x1="80" y1="85" x2="210" y2="85"/>
+<line x1="80" y1="85" x2="80" y2="215"/>
+<line x1="80" y1="85" x2="210" y2="215"/>
+<line x1="210" y1="85" x2="80" y2="215"/>
+<line x1="210" y1="85" x2="210" y2="215"/>
+<line x1="80" y1="215" x2="210" y2="215"/>
+<line x1="390" y1="85" x2="520" y2="85"/>
+<line x1="390" y1="85" x2="390" y2="215"/>
+<line x1="390" y1="85" x2="520" y2="215"/>
+<line x1="520" y1="85" x2="390" y2="215"/>
+<line x1="520" y1="85" x2="520" y2="215"/>
+<line x1="390" y1="215" x2="520" y2="215"/>
+<line x1="300" y1="150" x2="210" y2="85"/>
+<line x1="300" y1="150" x2="210" y2="215"/>
+<line x1="300" y1="150" x2="390" y2="85"/>
+<line x1="300" y1="150" x2="390" y2="215"/>
+</g><g stroke="#424849" stroke-width="2">
+<circle cx="80" cy="85" r="15" fill="#fff4a8"/>
+<circle cx="210" cy="85" r="15" fill="#fff4a8"/>
+<circle cx="80" cy="215" r="15" fill="#fff4a8"/>
+<circle cx="210" cy="215" r="15" fill="#fff4a8"/>
+<circle cx="300" cy="150" r="15" fill="#d9002b"/>
+<circle cx="390" cy="85" r="15" fill="#fff4a8"/>
+<circle cx="520" cy="85" r="15" fill="#fff4a8"/>
+<circle cx="390" cy="215" r="15" fill="#fff4a8"/>
+<circle cx="520" cy="215" r="15" fill="#fff4a8"/>
+</g></svg>

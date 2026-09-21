@@ -1,21 +1,65 @@
-# Permalinks
-permalink:           pretty
-
-# Setup
+# Site identity
 title:               Maxwell Shinn's Homepage
-tagline:             
-url:                 http://www.maxshinnpotential.com
+header_title:        Max Shinn
+description:         Neuroscience research, scientific software, and music by Max Shinn.
+url:                 https://www.maxshinnpotential.com
 baseurl:             ""
+lang:                en
 
-
-# About/contact
 author:
   name:              Max Shinn
   url:               https://www.maxshinnpotential.com
   email:             admin@maxshinnpotential.com
 
-# Custom vars
-version:             2.0.0
-#github:
-#  repo:              https://github.com/poole/poole
+# Use directory URLs for the main pages.
+permalink:           pretty
 
+markdown:            kramdown
+highlighter:         rouge
+sass:
+  style:             compressed
+
+# Long Haul also supports a taller desktop header: header: large
+navigation:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+    section: research
+    description: Computations in the brain, publications, and talks.
+  - title: Publications
+    url: /publications/
+    section: publications
+    description: Key first, co-first, and last-author papers.
+  - title: Software
+    url: /software/
+    section: software
+    description: Open source tools for neuroscience and scientific computing.
+  - title: Blog
+    url: https://blog.maxshinnpotential.com
+    external: true
+    section: blog
+    description: Fun data analyses, from birds and bumblebees to card shuffling.
+  - title: Music
+    url: /music/
+    section: music
+    description: Musical theatre, chamber music, scores, and recordings.
+  - title: Contact
+    url: /contact/
+    section: contact
+    description: An open invitation to get in touch.
+
+social:
+  github: mwshinn
+  google_scholar: "https://scholar.google.com/citations?hl=en&user=ytVKRfkAAAAJ&view_op=list_works&sortby=pubdate"
+  youtube: "https://www.youtube.com/@YoutubeMaxS"
+
+exclude:
+  - scripts
+  - Gemfile
+  - Gemfile.lock
+  - _local-notes
+  - LICENSE-long-haul.txt
+  - vendor
+  - node_modules
+  - writetype/_site

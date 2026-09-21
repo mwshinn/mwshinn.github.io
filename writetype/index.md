@@ -1,10 +1,11 @@
 ---
 title: WriteType
-layout: default
+layout: page
+section: software
 breadcrumb: writetype
 ---
 
-![](./images/header.jpg "Header"){: .fullwidthimg}
+![](./images/header.webp "Header"){: .fullwidthimg width="980" height="200" loading="lazy" decoding="async"}
 
 ## What is WriteType?
 
@@ -81,9 +82,9 @@ Unstable Releases:
 To:
 
 -   Open a document — *File → Open* or click on the
-    ![](https://web.archive.org/web/20181218192008im_/http://writetype.bernsteinforpresident.com/images/stories/fileopen.png "Open icon"){: .noalignimg} button
+    ![](./images/fileopen.png "Open icon"){: .noalignimg width="32" height="32" loading="lazy" decoding="async"} button
 -   Save a document — *File→ Save* or click on the
-    ![](https://web.archive.org/web/20181218192008im_/http://writetype.bernsteinforpresident.com/images/stories/filesave.png "Save icon"){: .noalignimg} button
+    ![](./images/filesave.png "Save icon"){: .noalignimg width="32" height="32" loading="lazy" decoding="async"} button
     -   Please note that WriteType saves in the html format. This is the
         same format used by web browsers. Because of this, depending on
         your system configuration, you may not be able to simply click
@@ -91,14 +92,14 @@ To:
         use File → Open.
 -   Save a document under another name — *File → Save As…* or click
     on the
-    ![](https://web.archive.org/web/20181218192008im_/http://writetype.bernsteinforpresident.com/images/stories/filesaveas.png "Save as icon"){: .noalignimg} button
+    ![](./images/filesaveas.png "Save as icon"){: .noalignimg width="32" height="32" loading="lazy" decoding="async"} button
 -   Print the current document — *File → Print*, or click on the
-    ![](https://web.archive.org/web/20181218192008im_/http://writetype.bernsteinforpresident.com/images/stories/fileprint.png "Print icon"){: .noalignimg} button
+    ![](./images/fileprint.png "Print icon"){: .noalignimg width="32" height="32" loading="lazy" decoding="async"} button
     -   When you print, WriteType uses the standard printer settings on
         your computer.
 -   Read back your current document — *Edit → Speak*, or click on
     the
-    ![](https://web.archive.org/web/20181218192008im_/http://writetype.bernsteinforpresident.com/images/stories/voicecall.png "Speak icon"){: .noalignimg} button
+    ![](./images/voicecall.png "Speak icon"){: .noalignimg width="32" height="32" loading="lazy" decoding="async"} button
     -   If you select a portion of the document and click on the Speak
         button, only the selected portion will be read back.
 
@@ -114,7 +115,7 @@ need to be reviewed.
 There are two ways to highlight parts of the document: by using the
 Highlight Tool, or by turning on Highlight Mode. The **Highlight Tool**
 is the
-![](https://web.archive.org/web/20181218192008im_/http://writetype.bernsteinforpresident.com/images/stories/highlight_single.png "Highlight tool icon"){: .noalignimg} button on the toolbar. To use the Highlight Tool, first
+![](./images/highlight_single.png "Highlight tool icon"){: .noalignimg width="32" height="32" loading="lazy" decoding="async"} button on the toolbar. To use the Highlight Tool, first
 click on a word in the document. Then, click the Highlight Tool button.
 The word under the cursor will be highlighted. If you would like to
 highlight more than one word, select the area you would like to
@@ -125,7 +126,7 @@ highlighting.
 
 **Highlight Mode** works similarly to the Highlight Tool. Highlight Mode
 can be enabled by clicking on the
-![](https://web.archive.org/web/20181218192008im_/http://writetype.bernsteinforpresident.com/images/stories/highlight.png "Highlight mode icon"){: .noalignimg} icon in the toolbar. It can be disabled by clicking on it
+![](./images/highlight.png "Highlight mode icon"){: .noalignimg width="32" height="32" loading="lazy" decoding="async"} icon in the toolbar. It can be disabled by clicking on it
 again. The only difference between Highlight Mode and the Highlight Tool
 is that it does not allow text to be entered while enabled. The main
 advantage to using it is speed. Every time you click on the document
@@ -239,11 +240,11 @@ and features.
 
 ## Screenshots
 
-![](./images/beanstock.png "Header"){: .fullwidthimg}
+![](./images/beanstock.webp "Header"){: .fullwidthimg width="811" height="629" loading="lazy" decoding="async"}
 
-![](./images/jonathan.png "Header"){: .fullwidthimg}
+![](./images/jonathan.webp "Header"){: .fullwidthimg width="803" height="627" loading="lazy" decoding="async"}
 
-![](./images/settings.png "Header"){: .fullwidthimg}
+![](./images/settings.webp "Header"){: .fullwidthimg width="479" height="329" loading="lazy" decoding="async"}
 
 ## Contributors
 
@@ -296,4 +297,3 @@ greatly appreciated!
 - Contributing to development: If you have experience programming and
   would like to submit a patch or make more serious contributions,
   your work would be very much appreciated.
-

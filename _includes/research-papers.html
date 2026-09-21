@@ -1,0 +1,11 @@
+<ul class="research-papers">
+  {% for paper in site.data.research_papers[include.topic] %}
+  <li class="research-paper">
+    <span class="research-paper__year">{{ paper.year }}</span>
+    <div class="research-paper__details">
+      <a class="research-paper__title" href="{{ paper.url }}">{{ paper.title | escape }}</a>
+      <span class="research-paper__venue">{{ paper.venue | escape }}</span>
+    </div>
+  </li>
+  {% endfor %}
+</ul>

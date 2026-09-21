@@ -1,0 +1,25 @@
+<header class="header{% if site.header == 'large' %} header--large{% endif %}">
+  <div class="container">
+    {% if page.url == '/' %}
+      <h1 class="logo"><a href="{{ '/' | relative_url }}">{{ site.header_title | default: site.title | escape }}</a></h1>
+    {% else %}
+      <p class="logo"><a href="{{ '/' | relative_url }}">{{ site.header_title | default: site.title | escape }}</a></p>
+    {% endif %}
+    <button class="nav-toggle" type="button" aria-controls="site-navigation" aria-expanded="false" hidden>Menu</button>
+    <nav class="nav-collapse" id="site-navigation" aria-label="Main navigation">
+      <ul class="noList">
+        {% for link in site.navigation %}
+          {% assign current = false %}
+          {% if page.url == link.url %}
+            {% assign current = true %}
+          {% elsif page.section and page.section == link.section %}
+            {% assign current = true %}
+          {% endif %}
+          <li{% if current %} class="current"{% endif %}>
+            <a href="{% if link.external %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}"{% if current %} aria-current="{% if page.url == link.url %}page{% else %}location{% endif %}"{% endif %}>{{ link.title | escape }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,39 @@
+<div class="software-grid">
+  {% for project in site.data.software %}
+  <article class="software-card" aria-labelledby="project-{{ project.id }}">
+    <div class="software-card__media{% if project.image_style %} software-card__media--{{ project.image_style }}{% endif %}">
+      {% if project.image %}
+      {% if project.image_optimized %}
+      <img src="{{ project.image_optimized | relative_url }}" alt="{{ project.image_alt | escape }}" width="{{ project.image_optimized_width }}" height="{{ project.image_optimized_height }}" loading="lazy" decoding="async">
+      {% elsif project.image_crop %}
+      {% assign crop = project.image_crop | split: ' ' %}
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="{{ project.image_crop }}" role="img" aria-labelledby="software-thumbnail-{{ project.id }}" focusable="false">
+        <title id="software-thumbnail-{{ project.id }}">{{ project.image_alt | escape }}</title>
+        <defs><clipPath id="software-clip-{{ project.id }}" clipPathUnits="userSpaceOnUse">{% if project.image_clip_points %}<polygon points="{{ project.image_clip_points }}"></polygon>{% else %}<rect x="{{ crop[0] }}" y="{{ crop[1] }}" width="{{ crop[2] }}" height="{{ crop[3] }}"></rect>{% endif %}</clipPath></defs>
+        <image href="{{ project.image | relative_url }}" width="{{ project.image_width }}" height="{{ project.image_height }}" clip-path="url(#software-clip-{{ project.id }})"></image>
+        {% if project.image_hide_scale %}
+        {% assign scale_bar = project.image_hide_scale | split: ' ' %}
+        <rect x="{{ scale_bar[0] }}" y="{{ scale_bar[1] }}" width="{{ scale_bar[2] }}" height="{{ scale_bar[3] }}" fill="#000" aria-hidden="true"></rect>
+        {% endif %}
+      </svg>
+      {% else %}
+      <img src="{{ project.image | relative_url }}" alt="{{ project.image_alt | escape }}" loading="lazy" decoding="async">
+      {% endif %}
+      {% else %}
+      <div class="software-card__placeholder" role="img" aria-label="Image placeholder for {{ project.name | escape }}">
+        <span class="software-card__placeholder-name" aria-hidden="true">{{ project.placeholder | default: project.name | escape }}</span>
+        <span class="software-card__placeholder-label" aria-hidden="true">Image placeholder</span>
+      </div>
+      {% endif %}
+    </div>
+    <div class="software-card__body">
+      <h2 id="project-{{ project.id }}"><a href="{{ project.url }}">{{ project.name | escape }}</a></h2>
+      <div class="software-card__description">{{ project.description | markdownify }}</div>
+      <div class="software-card__links">
+        <a href="{{ project.url }}" aria-label="{{ project.name | escape }} on GitHub">View on GitHub <span aria-hidden="true">&rarr;</span></a>
+        {% if project.paper %}<a href="{{ project.paper }}">Read the paper <span aria-hidden="true">&rarr;</span></a>{% endif %}
+      </div>
+    </div>
+  </article>
+  {% endfor %}
+</div>

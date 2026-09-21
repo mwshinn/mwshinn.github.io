@@ -1,0 +1,12 @@
+<nav class="research-topics" aria-label="Research topics">
+  {% for topic in site.data.research %}
+  <a class="research-topic research-topic--{{ topic.id }}" href="{{ '/research/' | append: topic.id | append: '/' | relative_url }}">
+    <div class="research-topic__image"><img src="{{ topic.image | relative_url }}" alt="{{ topic.image_alt | escape }}" width="600" height="360" loading="lazy" decoding="async"></div>
+    <div class="research-topic__body">
+      <h2>{{ topic.title }}</h2>
+      <p>{{ topic.description }}</p>
+      <span class="research-topic__link">Explore the research <span aria-hidden="true">&rarr;</span></span>
+    </div>
+  </a>
+  {% endfor %}
+</nav>

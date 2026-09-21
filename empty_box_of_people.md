@@ -1,6 +1,7 @@
 ---
 title: An Empty Box of People
-layout: default
+layout: page
+section: music
 breadcrumb: An Empty Box of People
 permalink: music/empty-box-of-people
 ---
@@ -12,8 +13,8 @@ Libretto by Nico Swenson, Score by Max Shinn
 
 ### About
 
-*An Empty Box of People* is a new musical in one act. This humerous yet
-thought provoking show will leave you with a new appreciation for what
+*An Empty Box of People* is a new musical in one act. This humorous yet
+thought-provoking show will leave you with a new appreciation for what
 can happen when people become locked in an elevator.
 
 ### Synopsis
@@ -57,4 +58,4 @@ composer](mailto:admin-at-bernsteinforpresident-daht-com) and he'll send
 them to you. The MuseScore sources of the music are also available upon
 request, and will be posted here soon.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="{{ '/assets/img/optimized/cc-by-sa.png' | relative_url }}" width="88" height="31" loading="lazy" decoding="async" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA</a>.

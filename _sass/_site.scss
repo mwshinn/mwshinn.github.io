@@ -1,0 +1,301 @@
+// Page layouts and accessible navigation for the Long Haul theme.
+body {
+  background: $white;
+  overflow-x: visible;
+}
+
+html,
+button,
+input,
+select,
+textarea,
+pre,
+code,
+kbd,
+samp {
+  font-family: $sans-serif;
+}
+
+a {
+  text-underline-offset: 0.15em;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 4px;
+}
+
+[id] {
+  scroll-margin-top: 1.5rem;
+}
+
+.skip-link {
+  position: absolute;
+  top: -5rem;
+  left: 1rem;
+  z-index: 10;
+  padding: 0.5rem 1rem;
+  background: $white;
+  color: $black;
+
+  &:focus {
+    top: 1rem;
+  }
+}
+
+.header {
+  height: auto;
+  min-height: 3em;
+  background-color: #000;
+  // Shift the photo up by 7.5% of its displayed height (2267 / 6144 of its width).
+  background-position: center top, center -2.77vw;
+  background-size: cover, 100% auto;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(100deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.45) 60%, rgba(0, 0, 0, 0.18) 100%), url($header-image);
+
+  .container {
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.85);
+    display: flow-root;
+  }
+
+  .logo {
+    padding-left: 20px;
+    text-transform: none;
+  }
+}
+
+.nav-toggle {
+  border: 0;
+  font-family: $sans-serif;
+  font-size: 0.85em;
+  line-height: 2.4;
+  right: 20px;
+  cursor: pointer;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.nav-collapse {
+  clear: both;
+  font-family: $sans-serif;
+
+  a:hover,
+  a:focus-visible,
+  .current a {
+    text-decoration: underline;
+    text-underline-offset: 0.25em;
+  }
+}
+
+.navigation-ready .nav-collapse {
+  display: none;
+
+  &.opened {
+    display: block;
+  }
+}
+
+.page-content {
+  padding-top: 1.5rem;
+  overflow-wrap: break-word;
+
+  .pageTitle {
+    margin: 1.5rem 0 2rem;
+  }
+
+  h2 {
+    margin-top: 2.25rem;
+  }
+
+  h3 {
+    margin-top: 1.75rem;
+  }
+
+  ul,
+  ol {
+    padding-left: 1.4em;
+  }
+
+  li {
+    margin-bottom: 0.6rem;
+  }
+
+  li > ul,
+  li > ol {
+    margin: 0.6rem 0 0;
+  }
+
+  img {
+    height: auto;
+  }
+
+  .fullwidthimg {
+    display: block;
+    width: 100%;
+  }
+
+  .noalignimg {
+    display: inline;
+    vertical-align: middle;
+  }
+}
+
+#home {
+  padding-top: 1.5rem;
+
+  .home-introduction,
+  .domain-note {
+    margin: 0 auto;
+  }
+
+  .pageTitle {
+    width: 100%;
+    margin: 1.5rem 0;
+    font-size: 1.65rem;
+  }
+
+  .home-introduction {
+    margin-bottom: 2.5rem;
+  }
+
+  .posts article {
+    margin-bottom: 2.5rem;
+
+    &:before {
+      bottom: -1.25rem;
+    }
+
+    &:last-child:before {
+      display: none;
+    }
+
+    h2 {
+      margin: 0 0 0.4rem;
+      font-size: 1.25rem;
+    }
+
+    p {
+      margin: 0;
+    }
+  }
+
+  .domain-note {
+    padding-top: 0.5rem;
+    font-size: 0.85em;
+  }
+}
+
+.research-keywords {
+  padding-top: 1.5rem;
+  border-top: 1px solid $silver;
+  font-family: $sans-serif;
+  font-size: 0.8em;
+  line-height: 1.7;
+}
+
+.breadcrumbs {
+  margin: 0.5rem 0 1.5rem;
+  font-family: $sans-serif;
+  font-size: 0.7em;
+
+  span[aria-hidden] {
+    margin: 0 0.4em;
+    color: #767676;
+  }
+}
+
+.theme-credit {
+  display: block;
+  margin-top: 0.75rem;
+}
+
+.footer .footer-links ul {
+  margin-bottom: 0;
+}
+
+@media only screen and (min-width: 800px) {
+  .header {
+    height: 15em;
+
+    .container {
+      padding: 0 24px;
+      overflow: visible;
+    }
+
+    .logo {
+      padding-left: 0;
+    }
+
+    nav ul li a {
+      display: inline-block;
+    }
+  }
+
+  .header--large {
+    height: 50vh;
+    min-height: 15em;
+  }
+
+  .nav-collapse,
+  .navigation-ready .nav-collapse {
+    display: block;
+  }
+
+  .nav-toggle {
+    display: none;
+  }
+
+  .page-content {
+    width: 75%;
+    margin: 0 auto;
+  }
+
+  #home {
+    .home-introduction,
+    .domain-note {
+      width: 75%;
+    }
+
+    .pageTitle {
+      font-size: 1.9rem;
+    }
+  }
+
+  .footer {
+    .container {
+      width: calc(100% - 48px);
+    }
+
+    .copy {
+      max-width: calc(100% - 145px);
+      margin-bottom: 0;
+      text-align: left;
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: $black;
+    color: $white;
+  }
+
+  .content:after {
+    background: $black;
+  }
+
+  a {
+    color: #76ce9d;
+
+    &:hover {
+      color: #b8e7cc;
+    }
+  }
+
+  .breadcrumbs span[aria-hidden] {
+    color: $grey;
+  }
+}

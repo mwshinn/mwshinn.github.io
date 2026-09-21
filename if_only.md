@@ -1,6 +1,7 @@
 ---
 title: If Only - The Musical
-layout: default
+layout: page
+section: music
 breadcrumb: If Only
 permalink: music/if-only
 ---
@@ -56,6 +57,6 @@ issues.
 
 If you would like orchestra parts, [email the
 composer](mailto:admin-at-bernsteinforpresident-daht-com) and he'll send
-them to you..
+them to you.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="{{ '/assets/img/optimized/cc-by-sa.png' | relative_url }}" width="88" height="31" loading="lazy" decoding="async" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA</a>.

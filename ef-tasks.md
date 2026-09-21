@@ -1,6 +1,7 @@
 ---
 title: Executive function tasks
-layout: default
+layout: page
+section: software
 breadcrumb: EF tasks
 ---
 
@@ -27,4 +28,3 @@ at the University of Minnesota.
   source download]({{ site.baseurl }}/public/ef-tasks/vocab.zip))
 - Scoring scripts for many of the above tasks ([Python scoring
   scripts]({{ site.baseurl }}/public/ef-tasks/scoring_scripts.zip))
-
