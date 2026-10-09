@@ -2,7 +2,7 @@
   title: Sharing scientific data for human-AI collaborations
   year: 2026
   preprint: true
-  url: /public/papers/data_capsules_preprint.pdf
+  url: https://zenodo.org/records/23269256
   authors:
   - Maxwell Shinn
   image: /assets/img/publications/data-capsules-thumbnail.svg
