@@ -1,3 +1,12 @@
+- id: data-capsules
+  title: Sharing scientific data for human-AI collaborations
+  year: 2026
+  preprint: true
+  url: /public/papers/data_capsules_preprint.pdf
+  authors:
+  - Maxwell Shinn
+  image: /assets/img/publications/data-capsules-thumbnail.svg
+  image_alt: A pill-shaped data capsule containing Code, Data, and Metadata, inspired by Figure 1.
 - id: coppafish
   title: Spatially resolved transcriptomic identification of thousands of neurons recorded in vivo
   year: 2026
