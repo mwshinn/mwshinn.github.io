@@ -6,7 +6,7 @@
   authors:
   - Maxwell Shinn
   image: /assets/img/publications/data-capsules-thumbnail.svg
-  image_alt: A pill-shaped data capsule containing Code, Data, and Metadata, inspired by Figure 1.
+  image_alt: A data capsule.
 - id: coppafish
   title: Spatially resolved transcriptomic identification of thousands of neurons recorded in vivo
   year: 2026
