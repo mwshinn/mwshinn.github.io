@@ -1,12 +1,3 @@
-- id: data-capsules
-  title: Sharing scientific data for human-AI collaborations
-  year: 2026
-  preprint: true
-  url: https://zenodo.org/records/23269256
-  authors:
-  - Maxwell Shinn
-  image: /assets/img/publications/data-capsules-thumbnail.svg
-  image_alt: A data capsule.
 - id: coppafish
   title: Spatially resolved transcriptomic identification of thousands of neurons recorded in vivo
   year: 2026
@@ -55,6 +46,17 @@
   image_optimized: /assets/img/publications/rca-thumbnail.webp
   image_optimized_width: 352
   image_optimized_height: 288
+- id: data-capsules
+  title: Sharing scientific data for human-AI collaborations
+  year: 2026
+  venue: Zenodo
+  preprint: true
+  url: https://zenodo.org/records/23269256
+  local_preprint_url: /public/papers/data_capsules_preprint.pdf
+  authors:
+  - Maxwell Shinn
+  image: /assets/img/publications/data-capsules-thumbnail.svg
+  image_alt: A data capsule.
 - id: zebra-noise
   title: Mapping the visual cortex with Zebra noise and wavelets
   year: 2026
